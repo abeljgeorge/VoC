@@ -19,8 +19,8 @@ import time
 import uuid
 from typing import Protocol
 
-from . import db
-from .stages import s0_ingest, s1_clean
+from . import db, models
+from .stages import s0_ingest, s1_clean, s2_extract
 
 
 class Stage(Protocol):
@@ -34,25 +34,7 @@ class Stage(Protocol):
 
 # Register stages here. Order does not matter — DEPS define execution order.
 # Later stages (s2_extract ... s7_critic) slot in as their modules land.
-REGISTRY: list[Stage] = [s0_ingest, s1_clean]  # type: ignore[list-item]
-
-
-# --- Model lifecycle hook (I6) ----------------------------------------------
-# Placeholder until voc/models.py exists. Stages 0-1 need no model, so this is
-# a no-op for the current slice; the LLM stages will route through the real one.
-_resident: str | None = None
-
-
-def _ensure_model(name: str | None) -> None:
-    """Load `name`, unload anything else. One model in memory at a time."""
-    global _resident
-    if name == _resident:
-        return
-    if _resident is not None:
-        print(f"    [models] unload {_resident}")
-    if name is not None:
-        print(f"    [models] load {name}")
-    _resident = name
+REGISTRY: list[Stage] = [s0_ingest, s1_clean, s2_extract]  # type: ignore[list-item]
 
 
 # --- Graph building ---------------------------------------------------------
@@ -113,12 +95,12 @@ def run_pipeline(conn, *, target: str | None = None, run_id: str | None = None) 
         ihash = stage.input_hash(conn)
 
         if db.cache_hit(conn, name, ihash):
-            print(f"[{name}] cache hit ({ihash[:10]}) — skipped")
+            print(f"[{name}] cache hit ({ihash[:10]}) - skipped")
             db.log_run(conn, run_id=run_id, stage=name, input_hash=ihash,
                        status="skipped_cache")
             continue
 
-        _ensure_model(stage.NEEDS_MODEL)
+        models.ensure(stage.NEEDS_MODEL)
         t0 = time.perf_counter()
         try:
             stats = stage.run(conn)
@@ -126,13 +108,13 @@ def run_pipeline(conn, *, target: str | None = None, run_id: str | None = None) 
             db.log_run(conn, run_id=run_id, stage=name, input_hash=ihash,
                        status="ok", model=stage.NEEDS_MODEL, latency_ms=dt)
             summary = ", ".join(f"{k}={v}" for k, v in stats.items())
-            print(f"[{name}] ok in {dt} ms — {summary}")
+            print(f"[{name}] ok in {dt} ms - {summary}")
         except Exception as exc:  # stage-level failure: log and halt
             dt = int((time.perf_counter() - t0) * 1000)
             db.log_run(conn, run_id=run_id, stage=name, input_hash=ihash,
                        status="failed", model=stage.NEEDS_MODEL, latency_ms=dt,
                        error=f"{type(exc).__name__}: {exc}")
-            print(f"[{name}] FAILED in {dt} ms — {type(exc).__name__}: {exc}")
+            print(f"[{name}] FAILED in {dt} ms - {type(exc).__name__}: {exc}")
             raise
 
 
@@ -149,6 +131,7 @@ def main(argv: list[str] | None = None) -> None:
     try:
         run_pipeline(conn, target=args.target)
     finally:
+        models.release()  # free the last resident model's memory (I6)
         conn.close()
 
 

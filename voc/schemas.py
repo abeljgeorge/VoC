@@ -26,11 +26,14 @@ ChurnFlag = Literal["cancel", "refund", "competitor", "uninstall"]
 
 
 # --- Stage 2: pain-point extractor (local LLM) ------------------------------
+Severity = Literal["low", "medium", "high"]
+
+
 class PainPoint(BaseModel):
     issue: str = Field(max_length=120, description="Short normalized problem statement.")
     feature_area: FeatureArea
-    severity: int = Field(ge=1, le=5)
-    quote: str = Field(description="Copied verbatim from the source; verified in stage 4.")
+    severity: Severity  # matches the ground-truth vocabulary; 3 buckets > 1-5 for small models
+    quote: str = Field(description="Copied verbatim from the text shown; verified in stage 4.")
 
 
 class ExtractionResult(BaseModel):

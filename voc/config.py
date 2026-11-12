@@ -16,3 +16,8 @@ TICKETS_CSV = DATA_DIR / "02_tickets" / "tickets.csv"
 
 # Export target for the read-only dashboard (git-ignored).
 EXPORT_DIR = ROOT / "exports"
+
+# In-process model identifiers (managed by voc/models.py, one at a time — I6).
+EMBED_MODEL = os.environ.get("VOC_EMBED_MODEL", "intfloat/multilingual-e5-small")
+WHISPER_SIZE = os.environ.get("VOC_WHISPER_SIZE", "base")
+WHISPER_COMPUTE = os.environ.get("VOC_WHISPER_COMPUTE", "int8")

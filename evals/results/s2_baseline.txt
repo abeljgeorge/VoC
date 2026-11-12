@@ -1,0 +1,33 @@
+# Stage 2 baseline - phi4-mini, prompt 921877ccd302, untuned
+# Captured: first end-to-end extraction run over 186 tickets
+# Headline: F1 0.806 | recall 0.831 | quote faithfulness 0.995 | 0 dead-lettered
+# Known weaknesses: over-extraction on non-pain items (10/20 FP); personalization recall 0.29
+# Raw scorecard below (regenerate with: python -m evals.eval_s2)
+
+============================================================
+STAGE 2 EVAL - pain-point extraction
+============================================================
+predicted pain points : 202
+gt (item,area) pairs  : 172
+dead-lettered items   : 0
+
+Feature-area match (item,area grain)
+  precision : 0.781
+  recall    : 0.831
+  F1        : 0.806
+  TP/FP/FN  : 143/40/29
+
+Per-area recall
+  billing           52/55   0.95
+  coaching           9/12   0.75
+  device_sync       30/34   0.88
+  food_tracking     18/27   0.67
+  login_stability   13/16   0.81
+  onboarding        19/21   0.90
+  personalization    2/7    0.29
+
+Severity accuracy (matched) : 85/143  0.594
+Quote faithfulness          : 201/202  0.995
+Non-pain precision          : 10/20 clean  (10 false positives)
+  false-positive items: tkt_0004, tkt_0018, tkt_0019, tkt_0036, tkt_0046, tkt_0049, tkt_0053, tkt_0116, tkt_0160, tkt_0162
+============================================================

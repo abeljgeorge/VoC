@@ -105,9 +105,9 @@ CREATE TABLE pain_points (
   id            TEXT PRIMARY KEY,      -- hash(item_id, issue)
   item_id       TEXT NOT NULL REFERENCES items(id),
   issue         TEXT NOT NULL,         -- short normalized problem statement
-  feature_area  TEXT NOT NULL,         -- 'billing' | 'tracking' | 'sync' | 'onboarding' | ...
-  severity      INTEGER NOT NULL,      -- 1..5
-  quote         TEXT NOT NULL          -- exact substring of items.text (verified stage 4)
+  feature_area  TEXT NOT NULL,         -- 'billing' | 'food_tracking' | 'device_sync' | ...
+  severity      TEXT NOT NULL,         -- 'low' | 'medium' | 'high' (matches ground truth)
+  quote         TEXT NOT NULL          -- exact substring of text shown to model (verified stage 4)
 );
 
 -- Stage 3: themes and membership
@@ -185,8 +185,9 @@ Each LLM stage is defined by: an input it reads, a **Pydantic output model**, a 
 ```python
 class PainPoint(BaseModel):
     issue: str = Field(max_length=120)
-    feature_area: Literal["billing","tracking","sync","onboarding","performance","other"]
-    severity: conint(ge=1, le=5)
+    feature_area: Literal["billing","food_tracking","device_sync","onboarding",
+                          "login_stability","coaching","personalization","other"]
+    severity: Literal["low","medium","high"]
     quote: str                       # must be verbatim; checked later
 
 class ExtractionResult(BaseModel):

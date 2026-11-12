@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS pain_points (
   item_id      TEXT NOT NULL REFERENCES items(id),
   issue        TEXT NOT NULL,
   feature_area TEXT NOT NULL,
-  severity     INTEGER NOT NULL,
+  severity     TEXT NOT NULL,
   quote        TEXT NOT NULL
 );
 
