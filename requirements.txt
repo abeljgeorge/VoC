@@ -1,0 +1,33 @@
+# VoC Copilot — dependencies (Python 3.14)
+#
+# These are LOWER-BOUND floors chosen to guarantee Python 3.14 wheel support.
+# After your first clean `pip install -r requirements.txt`, freeze exact pins:
+#     pip freeze > requirements.lock.txt
+# and commit the lock file. Keep this file as the human-readable source of truth.
+
+# ---- Tier 1: needed for stages 0-1 (ingest + clean). No model required. ----
+pydantic>=2.9            # agent contracts / validation
+pandas>=2.2              # tabular I/O
+langdetect>=1.0.9        # language tagging (stage 1)
+presidio-analyzer>=2.2   # PII detection (stage 1)
+presidio-anonymizer>=2.2 # PII redaction (stage 1)
+spacy>=3.8               # Presidio's NER backend; also: python -m spacy download en_core_web_lg
+
+# ---- Tier 2: local LLM stages (2, 3-naming, 5) ----
+ollama>=0.4              # local model client
+
+# ---- Tier 3: clustering (stage 3) ----
+sentence-transformers>=3.3   # multilingual-e5-small embeddings
+bertopic>=0.17               # UMAP + HDBSCAN topic modelling (numba>=0.63 → 3.14 ok)
+
+# ---- Tier 4: audio + OCR ingest (stage 0 extensions) ----
+faster-whisper>=1.1      # interview transcription
+pytesseract>=0.3.13      # screenshot OCR (needs Tesseract binary installed separately)
+pillow>=11.0             # image loading for OCR
+
+# ---- Tier 5: cloud recommender + critic (stages 6-7) ----
+groq>=0.13               # recommender
+google-genai>=0.3        # critic (Gemini)
+
+# ---- Tier 6: dashboard ----
+streamlit>=1.40          # read-only dashboard
