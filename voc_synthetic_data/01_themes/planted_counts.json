@@ -1,0 +1,77 @@
+{
+  "total_tickets": 186,
+  "unique_tickets": 180,
+  "duplicates": 6,
+  "by_category": {
+    "pain": 160,
+    "question": 6,
+    "praise": 8,
+    "feature_request": 6
+  },
+  "by_language": {
+    "hi-en": 61,
+    "en": 114,
+    "hi": 5
+  },
+  "by_theme": {
+    "T01": 30,
+    "T02": 25,
+    "T03": 26,
+    "T04": 33,
+    "T05": 20,
+    "T06": 16,
+    "T07": 11,
+    "T08": 7
+  },
+  "by_issue": {
+    "portion_units": 4,
+    "cancel_not_found": 6,
+    "logged_out": 9,
+    "sync_delay": 8,
+    "too_many_questions": 4,
+    "veg_plan": 2,
+    "hidden_taxes": 4,
+    "coach_slow": 8,
+    "barcode_fail": 8,
+    "price_mismatch": 8,
+    "steps_not_syncing": 12,
+    "macro_mismatch": 5,
+    "paywall_early": 5,
+    "refund_denied": 7,
+    "wrong_calories": 5,
+    "setup_stuck": 7,
+    "price_value": 3,
+    "missing_foods": 4,
+    "diabetic_plan": 1,
+    "reconnect_drops": 3,
+    "cancel_continues": 11,
+    "crash_after_update": 3,
+    "renewal_without_notice": 2,
+    "regional_plan": 4,
+    "double_charge": 8,
+    "cancel_redirect": 1,
+    "sleep_missing": 4,
+    "otp_not_received": 2,
+    "duplicate_steps": 6,
+    "goal_unclear": 4,
+    "failed_payment_debited": 4,
+    "charged_after_trial": 4,
+    "slow_load": 2
+  },
+  "by_churn_flag": {
+    "cancel_intent": 28,
+    "uninstall": 14,
+    "competitor_mention": 10,
+    "refund_dispute": 32
+  },
+  "tickets_with_pii": 37,
+  "tags": {
+    "mixed_sentiment": 6,
+    "noisy": 40,
+    "pii": 37,
+    "mixed_theme": 8,
+    "duplicate_near": 3,
+    "duplicate_exact": 3,
+    "sarcasm": 5
+  }
+}

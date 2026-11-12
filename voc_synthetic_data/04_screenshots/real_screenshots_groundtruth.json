@@ -1,0 +1,240 @@
+[
+  {
+    "id": "real_01",
+    "source": "screenshot_real",
+    "image": "real/real_01.png",
+    "language": "en",
+    "themes": [
+      "T01"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "failed_payment_debited",
+        "issue": "Payment failed but money was debited",
+        "theme_id": "T01",
+        "feature_area": "billing",
+        "severity": "high",
+        "quote": "my payment failed in the app but Rs 2,999 was debited from my bank account"
+      }
+    ],
+    "churn_evidence": [],
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Hi, my payment failed in the app but Rs 2,999 was debited from my bank account."
+      },
+      {
+        "sender": "support",
+        "text": "Sorry about that. Is your premium active now?"
+      },
+      {
+        "sender": "customer",
+        "text": "No, premium is still not active. It has been 3 days."
+      },
+      {
+        "sender": "support",
+        "text": "We will look into it and revert."
+      },
+      {
+        "sender": "customer",
+        "text": "Please refund it if you cannot activate the plan."
+      }
+    ],
+    "ocr_reference": "Hi, my payment failed in the app but Rs 2,999 was debited from my bank account.\nSorry about that. Is your premium active now?\nNo, premium is still not active. It has been 3 days.\nWe will look into it and revert.\nPlease refund it if you cannot activate the plan."
+  },
+  {
+    "id": "real_02",
+    "source": "screenshot_real",
+    "image": "real/real_02.png",
+    "language": "hi-en",
+    "themes": [
+      "T04"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "sleep_missing",
+        "issue": "Sleep data missing after update",
+        "theme_id": "T04",
+        "feature_area": "device_sync",
+        "severity": "medium",
+        "quote": "update ke baad Mi Band ka sleep data app mein aa hi nahi raha"
+      },
+      {
+        "issue_id": "duplicate_steps",
+        "issue": "Steps counted twice after sync",
+        "theme_id": "T04",
+        "feature_area": "device_sync",
+        "severity": "medium",
+        "quote": "Steps double count ho rahe hain, ek phone se aur ek band se"
+      }
+    ],
+    "churn_evidence": [
+      {
+        "flag": "uninstall",
+        "quote": "main app uninstall kar dunga"
+      }
+    ],
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Bhai, update ke baad Mi Band ka sleep data app mein aa hi nahi raha."
+      },
+      {
+        "sender": "support",
+        "text": "Steps sync ho rahe hain kya?"
+      },
+      {
+        "sender": "customer",
+        "text": "Steps double count ho rahe hain, ek phone se aur ek band se."
+      },
+      {
+        "sender": "support",
+        "text": "Hmm, ye pehli baar sun raha hu."
+      },
+      {
+        "sender": "customer",
+        "text": "Ye fix nahi hua toh main app uninstall kar dunga."
+      }
+    ],
+    "ocr_reference": "Bhai, update ke baad Mi Band ka sleep data app mein aa hi nahi raha.\nSteps sync ho rahe hain kya?\nSteps double count ho rahe hain, ek phone se aur ek band se.\nHmm, ye pehli baar sun raha hu.\nYe fix nahi hua toh main app uninstall kar dunga."
+  },
+  {
+    "id": "real_03",
+    "source": "screenshot_real",
+    "image": "real/real_03.png",
+    "language": "en",
+    "themes": [
+      "T02"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "refund_delay",
+        "issue": "Approved refund not received",
+        "theme_id": "T02",
+        "feature_area": "billing",
+        "severity": "high",
+        "quote": "my refund was approved 12 days ago and I still have not received the money"
+      }
+    ],
+    "churn_evidence": [
+      {
+        "flag": "refund_dispute",
+        "quote": "I will file a chargeback with my bank"
+      }
+    ],
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Hello, my refund was approved 12 days ago and I still have not received the money."
+      },
+      {
+        "sender": "support",
+        "text": "Refunds can take 7 to 10 working days."
+      },
+      {
+        "sender": "customer",
+        "text": "It has already been more than that. Nobody gives me a proper update."
+      },
+      {
+        "sender": "support",
+        "text": "Let me escalate it."
+      },
+      {
+        "sender": "customer",
+        "text": "If I do not get it by Friday I will file a chargeback with my bank."
+      }
+    ],
+    "ocr_reference": "Hello, my refund was approved 12 days ago and I still have not received the money.\nRefunds can take 7 to 10 working days.\nIt has already been more than that. Nobody gives me a proper update.\nLet me escalate it.\nIf I do not get it by Friday I will file a chargeback with my bank."
+  },
+  {
+    "id": "real_04",
+    "source": "screenshot_real",
+    "image": "real/real_04.png",
+    "language": "hi-en",
+    "themes": [
+      "T03"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "barcode_fail",
+        "issue": "Barcode scan does not recognise products",
+        "theme_id": "T03",
+        "feature_area": "food_tracking",
+        "severity": "medium",
+        "quote": "Barcode scan karne par har baar product not found aata hai"
+      }
+    ],
+    "churn_evidence": [],
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Barcode scan karne par har baar product not found aata hai."
+      },
+      {
+        "sender": "support",
+        "text": "Kaunsa product scan kar rahe ho?"
+      },
+      {
+        "sender": "customer",
+        "text": "Biscuit aur chips jaise packaged items bhi nahi milte."
+      },
+      {
+        "sender": "support",
+        "text": "Manually add kar lo abhi."
+      },
+      {
+        "sender": "customer",
+        "text": "Manually add karna hi hota toh scan feature kyu rakha hai."
+      }
+    ],
+    "ocr_reference": "Barcode scan karne par har baar product not found aata hai.\nKaunsa product scan kar rahe ho?\nBiscuit aur chips jaise packaged items bhi nahi milte.\nManually add kar lo abhi.\nManually add karna hi hota toh scan feature kyu rakha hai."
+  },
+  {
+    "id": "real_05",
+    "source": "screenshot_real",
+    "image": "real/real_05.png",
+    "language": "hi-en",
+    "themes": [
+      "T05"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "paywall_early",
+        "issue": "Paywall shown before value is clear",
+        "theme_id": "T05",
+        "feature_area": "onboarding",
+        "severity": "medium",
+        "quote": "Signup ke turant baad paywall aa gaya, app kya karta hai wo samajhne se pehle hi"
+      }
+    ],
+    "churn_evidence": [
+      {
+        "flag": "competitor_mention",
+        "quote": "cult.fit aisa nahi karta, free mein dikha deta hai"
+      }
+    ],
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Signup ke turant baad paywall aa gaya, app kya karta hai wo samajhne se pehle hi."
+      },
+      {
+        "sender": "support",
+        "text": "Free trial option bhi dikha hoga na?"
+      },
+      {
+        "sender": "customer",
+        "text": "Haan par pehle app dekhne ko to mile, itna pressure kyun."
+      },
+      {
+        "sender": "support",
+        "text": "Hum feedback team ko bhej denge."
+      },
+      {
+        "sender": "customer",
+        "text": "Competition mein cult.fit aisa nahi karta, free mein dikha deta hai."
+      }
+    ],
+    "ocr_reference": "Signup ke turant baad paywall aa gaya, app kya karta hai wo samajhne se pehle hi.\nFree trial option bhi dikha hoga na?\nHaan par pehle app dekhne ko to mile, itna pressure kyun.\nHum feedback team ko bhej denge.\nCompetition mein cult.fit aisa nahi karta, free mein dikha deta hai."
+  }
+]

@@ -1,0 +1,678 @@
+[
+  {
+    "id": "chat_01",
+    "source": "screenshot_render",
+    "image": "renders/chat_01.png",
+    "language": "en",
+    "themes": [
+      "T01"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "double_charge",
+        "issue": "Charged twice for the same plan",
+        "theme_id": "T01",
+        "feature_area": "billing",
+        "severity": "high",
+        "quote": "I was charged twice for the Premium Annual plan today"
+      }
+    ],
+    "churn_evidence": [
+      {
+        "flag": "refund_dispute",
+        "quote": "I want my money back today"
+      }
+    ],
+    "pii": [],
+    "style": {
+      "mode": "light",
+      "width": 390,
+      "font_px": 16
+    },
+    "note": "",
+    "messages": [
+      {
+        "sender": "support",
+        "time": "10:02",
+        "text": "Hi, this is FitApp Support. How can we help you today?"
+      },
+      {
+        "sender": "customer",
+        "time": "10:03",
+        "text": "Hi. I was charged twice for the Premium Annual plan today. Rs 2,999 got deducted two times."
+      },
+      {
+        "sender": "support",
+        "time": "10:05",
+        "text": "Sorry to hear that. Can you share the transaction IDs?"
+      },
+      {
+        "sender": "customer",
+        "time": "10:06",
+        "text": "Both are from the same Google Pay account, 10 minutes apart. I have the SMS alerts."
+      },
+      {
+        "sender": "support",
+        "time": "10:09",
+        "text": "We will check and get back to you in 5 to 7 working days."
+      },
+      {
+        "sender": "customer",
+        "time": "10:10",
+        "text": "5 to 7 days for your own mistake? I want my money back today."
+      }
+    ],
+    "ocr_reference": "10:02 Hi, this is FitApp Support. How can we help you today?\n10:03 Hi. I was charged twice for the Premium Annual plan today. Rs 2,999 got deducted two times.\n10:05 Sorry to hear that. Can you share the transaction IDs?\n10:06 Both are from the same Google Pay account, 10 minutes apart. I have the SMS alerts.\n10:09 We will check and get back to you in 5 to 7 working days.\n10:10 5 to 7 days for your own mistake? I want my money back today."
+  },
+  {
+    "id": "chat_02",
+    "source": "screenshot_render",
+    "image": "renders/chat_02.png",
+    "language": "hi-en",
+    "themes": [
+      "T02"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "cancel_continues",
+        "issue": "Charged again after cancelling",
+        "theme_id": "T02",
+        "feature_area": "billing",
+        "severity": "high",
+        "quote": "Maine plan cancel kiya tha pichle mahine phir bhi paise kat gaye"
+      },
+      {
+        "issue_id": "cancel_not_found",
+        "issue": "Cannot find how to cancel in the app",
+        "theme_id": "T02",
+        "feature_area": "billing",
+        "severity": "high",
+        "quote": "Cancel ka option app mein mila hi nahi"
+      }
+    ],
+    "churn_evidence": [
+      {
+        "flag": "cancel_intent",
+        "quote": "subscription turant band karo"
+      }
+    ],
+    "pii": [
+      {
+        "type": "PHONE_NUMBER",
+        "value": "98765 43210"
+      }
+    ],
+    "style": {
+      "mode": "dark",
+      "width": 412,
+      "font_px": 15
+    },
+    "note": "",
+    "messages": [
+      {
+        "sender": "support",
+        "time": "18:20",
+        "text": "Namaste! FitApp Support mein aapka swagat hai."
+      },
+      {
+        "sender": "customer",
+        "time": "18:21",
+        "text": "Maine plan cancel kiya tha pichle mahine phir bhi paise kat gaye."
+      },
+      {
+        "sender": "support",
+        "time": "18:22",
+        "text": "Kya aap apna registered number bata sakte hain?"
+      },
+      {
+        "sender": "customer",
+        "time": "18:23",
+        "text": "Number hai 98765 43210. Cancel ka option app mein mila hi nahi, bahut dhundha."
+      },
+      {
+        "sender": "support",
+        "time": "18:25",
+        "text": "Hum check karke batate hain."
+      },
+      {
+        "sender": "customer",
+        "time": "18:26",
+        "text": "Refund chahiye aur subscription turant band karo."
+      }
+    ],
+    "ocr_reference": "18:20 Namaste! FitApp Support mein aapka swagat hai.\n18:21 Maine plan cancel kiya tha pichle mahine phir bhi paise kat gaye.\n18:22 Kya aap apna registered number bata sakte hain?\n18:23 Number hai 98765 43210. Cancel ka option app mein mila hi nahi, bahut dhundha.\n18:25 Hum check karke batate hain.\n18:26 Refund chahiye aur subscription turant band karo."
+  },
+  {
+    "id": "chat_03",
+    "source": "screenshot_render",
+    "image": "renders/chat_03.png",
+    "language": "en",
+    "themes": [
+      "T04"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "steps_not_syncing",
+        "issue": "Steps not syncing from wearable",
+        "theme_id": "T04",
+        "feature_area": "device_sync",
+        "severity": "high",
+        "quote": "my Fitbit stopped syncing steps after the update"
+      },
+      {
+        "issue_id": "reconnect_drops",
+        "issue": "Google Fit connection keeps dropping",
+        "theme_id": "T04",
+        "feature_area": "device_sync",
+        "severity": "high",
+        "quote": "It works for a day and then disconnects again"
+      }
+    ],
+    "churn_evidence": [],
+    "pii": [
+      {
+        "type": "PERSON",
+        "value": "Rohit"
+      }
+    ],
+    "style": {
+      "mode": "light",
+      "width": 360,
+      "font_px": 15
+    },
+    "note": "",
+    "messages": [
+      {
+        "sender": "customer",
+        "time": "09:14",
+        "text": "Hi, my Fitbit stopped syncing steps after the update."
+      },
+      {
+        "sender": "support",
+        "time": "09:16",
+        "text": "Hello Rohit. Which app version are you on?"
+      },
+      {
+        "sender": "customer",
+        "time": "09:17",
+        "text": "8.4.0. The app shows 0 steps but the watch shows 9,412 steps today."
+      },
+      {
+        "sender": "support",
+        "time": "09:20",
+        "text": "Please try reconnecting your device from Settings."
+      },
+      {
+        "sender": "customer",
+        "time": "09:22",
+        "text": "I did that three times. It works for a day and then disconnects again."
+      },
+      {
+        "sender": "support",
+        "time": "09:24",
+        "text": "Noted. We have raised this with our tech team."
+      }
+    ],
+    "ocr_reference": "09:14 Hi, my Fitbit stopped syncing steps after the update.\n09:16 Hello Rohit. Which app version are you on?\n09:17 8.4.0. The app shows 0 steps but the watch shows 9,412 steps today.\n09:20 Please try reconnecting your device from Settings.\n09:22 I did that three times. It works for a day and then disconnects again.\n09:24 Noted. We have raised this with our tech team."
+  },
+  {
+    "id": "chat_04",
+    "source": "screenshot_render",
+    "image": "renders/chat_04.png",
+    "language": "hi-en",
+    "themes": [
+      "T03"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "wrong_calories",
+        "issue": "Calorie values wrong for Indian dishes",
+        "theme_id": "T03",
+        "feature_area": "food_tracking",
+        "severity": "medium",
+        "quote": "Poha ki calories 350 dikha raha hai, jabki ek plate mein 180 ke aaspaas hoti hai"
+      },
+      {
+        "issue_id": "portion_units",
+        "issue": "No katori/roti portion units",
+        "theme_id": "T03",
+        "feature_area": "food_tracking",
+        "severity": "medium",
+        "quote": "roti ko size ya katori mein log karne ka option nahi hai, sirf grams"
+      },
+      {
+        "issue_id": "missing_foods",
+        "issue": "Home-cooked dishes missing from database",
+        "theme_id": "T03",
+        "feature_area": "food_tracking",
+        "severity": "medium",
+        "quote": "ghar ke dishes jaise bhindi masala search karo toh milta hi nahi"
+      }
+    ],
+    "churn_evidence": [],
+    "pii": [],
+    "style": {
+      "mode": "dark",
+      "width": 390,
+      "font_px": 16
+    },
+    "note": "",
+    "messages": [
+      {
+        "sender": "customer",
+        "time": "13:05",
+        "text": "Hi, ek problem hai. Poha ki calories 350 dikha raha hai, jabki ek plate mein 180 ke aaspaas hoti hai."
+      },
+      {
+        "sender": "support",
+        "time": "13:07",
+        "text": "Hum database check karenge. Aur koi issue?"
+      },
+      {
+        "sender": "customer",
+        "time": "13:08",
+        "text": "Haan, roti ko size ya katori mein log karne ka option nahi hai, sirf grams."
+      },
+      {
+        "sender": "support",
+        "time": "13:10",
+        "text": "Ye feature request hum team ko bhej denge."
+      },
+      {
+        "sender": "customer",
+        "time": "13:11",
+        "text": "Aur ghar ke dishes jaise bhindi masala search karo toh milta hi nahi."
+      }
+    ],
+    "ocr_reference": "13:05 Hi, ek problem hai. Poha ki calories 350 dikha raha hai, jabki ek plate mein 180 ke aaspaas hoti hai.\n13:07 Hum database check karenge. Aur koi issue?\n13:08 Haan, roti ko size ya katori mein log karne ka option nahi hai, sirf grams.\n13:10 Ye feature request hum team ko bhej denge.\n13:11 Aur ghar ke dishes jaise bhindi masala search karo toh milta hi nahi."
+  },
+  {
+    "id": "chat_05",
+    "source": "screenshot_render",
+    "image": "renders/chat_05.png",
+    "language": "en",
+    "themes": [
+      "T05"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "setup_stuck",
+        "issue": "Stuck on first setup step",
+        "theme_id": "T05",
+        "feature_area": "onboarding",
+        "severity": "high",
+        "quote": "The Next button does nothing after I enter my weight"
+      },
+      {
+        "issue_id": "too_many_questions",
+        "issue": "Setup asks too many questions",
+        "theme_id": "T05",
+        "feature_area": "onboarding",
+        "severity": "medium",
+        "quote": "there are too many questions in setup"
+      },
+      {
+        "issue_id": "unclear_plan_steps",
+        "issue": "No guidance on what to do each day",
+        "theme_id": "T05",
+        "feature_area": "onboarding",
+        "severity": "medium",
+        "quote": "I do not understand what I am supposed to do each day"
+      }
+    ],
+    "churn_evidence": [],
+    "pii": [
+      {
+        "type": "PERSON",
+        "value": "Meera"
+      }
+    ],
+    "style": {
+      "mode": "light",
+      "width": 412,
+      "font_px": 16
+    },
+    "note": "",
+    "messages": [
+      {
+        "sender": "customer",
+        "time": "20:40",
+        "text": "Hello, I just installed the app but I am stuck on the first setup screen."
+      },
+      {
+        "sender": "support",
+        "time": "20:42",
+        "text": "Hi Meera, which step are you stuck on?"
+      },
+      {
+        "sender": "customer",
+        "time": "20:43",
+        "text": "The Next button does nothing after I enter my weight. I had to reinstall twice."
+      },
+      {
+        "sender": "support",
+        "time": "20:45",
+        "text": "Sorry about that. Please update to the latest version."
+      },
+      {
+        "sender": "customer",
+        "time": "20:47",
+        "text": "Also there are too many questions in setup. I do not understand what I am supposed to do each day."
+      }
+    ],
+    "ocr_reference": "20:40 Hello, I just installed the app but I am stuck on the first setup screen.\n20:42 Hi Meera, which step are you stuck on?\n20:43 The Next button does nothing after I enter my weight. I had to reinstall twice.\n20:45 Sorry about that. Please update to the latest version.\n20:47 Also there are too many questions in setup. I do not understand what I am supposed to do each day."
+  },
+  {
+    "id": "chat_06",
+    "source": "screenshot_render",
+    "image": "renders/chat_06.png",
+    "language": "hi-en",
+    "themes": [
+      "T06"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "otp_not_received",
+        "issue": "OTP login code never arrives",
+        "theme_id": "T06",
+        "feature_area": "login_stability",
+        "severity": "high",
+        "quote": "OTP nahi aa raha, login nahi ho pa raha"
+      },
+      {
+        "issue_id": "crash_after_update",
+        "issue": "App crashes on launch after update",
+        "theme_id": "T06",
+        "feature_area": "login_stability",
+        "severity": "critical",
+        "quote": "app open karte hi crash ho jata hai"
+      }
+    ],
+    "churn_evidence": [],
+    "pii": [],
+    "style": {
+      "mode": "dark",
+      "width": 360,
+      "font_px": 15
+    },
+    "note": "",
+    "messages": [
+      {
+        "sender": "customer",
+        "time": "07:30",
+        "text": "OTP nahi aa raha, login nahi ho pa raha."
+      },
+      {
+        "sender": "support",
+        "time": "07:31",
+        "text": "Kitne time se try kar rahe hain?"
+      },
+      {
+        "sender": "customer",
+        "time": "07:33",
+        "text": "2 din se try kar raha hu, 6 baar OTP maanga par ek bhi nahi aaya."
+      },
+      {
+        "sender": "support",
+        "time": "07:35",
+        "text": "Kya aap email se login try kar sakte hain?"
+      },
+      {
+        "sender": "customer",
+        "time": "07:36",
+        "text": "Email se try kiya toh app open karte hi crash ho jata hai."
+      }
+    ],
+    "ocr_reference": "07:30 OTP nahi aa raha, login nahi ho pa raha.\n07:31 Kitne time se try kar rahe hain?\n07:33 2 din se try kar raha hu, 6 baar OTP maanga par ek bhi nahi aaya.\n07:35 Kya aap email se login try kar sakte hain?\n07:36 Email se try kiya toh app open karte hi crash ho jata hai."
+  },
+  {
+    "id": "chat_07",
+    "source": "screenshot_render",
+    "image": "renders/chat_07.png",
+    "language": "en",
+    "themes": [
+      "T07"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "coach_generic",
+        "issue": "Generic copy-pasted diet chart",
+        "theme_id": "T07",
+        "feature_area": "coaching",
+        "severity": "medium",
+        "quote": "this is the same chart as last month"
+      },
+      {
+        "issue_id": "coach_slow",
+        "issue": "Coach replies take days",
+        "theme_id": "T07",
+        "feature_area": "coaching",
+        "severity": "medium",
+        "quote": "I messaged you on Monday about my knee pain and got a reply only today, Thursday"
+      }
+    ],
+    "churn_evidence": [
+      {
+        "flag": "cancel_intent",
+        "quote": "I might cancel and try Cult.fit instead"
+      },
+      {
+        "flag": "competitor_mention",
+        "quote": "I might cancel and try Cult.fit instead"
+      }
+    ],
+    "pii": [
+      {
+        "type": "PERSON",
+        "value": "Divya"
+      }
+    ],
+    "style": {
+      "mode": "light",
+      "width": 390,
+      "font_px": 16
+    },
+    "note": "",
+    "messages": [
+      {
+        "sender": "support",
+        "time": "11:00",
+        "text": "Hi Divya, here is your updated diet chart for this week."
+      },
+      {
+        "sender": "customer",
+        "time": "11:12",
+        "text": "Thanks, but this is the same chart as last month."
+      },
+      {
+        "sender": "customer",
+        "time": "11:13",
+        "text": "I messaged you on Monday about my knee pain and got a reply only today, Thursday."
+      },
+      {
+        "sender": "support",
+        "time": "11:20",
+        "text": "Sorry, I was handling many clients."
+      },
+      {
+        "sender": "customer",
+        "time": "11:22",
+        "text": "For Rs 8,000 I expected daily check-ins. I might cancel and try Cult.fit instead."
+      }
+    ],
+    "ocr_reference": "11:00 Hi Divya, here is your updated diet chart for this week.\n11:12 Thanks, but this is the same chart as last month.\n11:13 I messaged you on Monday about my knee pain and got a reply only today, Thursday.\n11:20 Sorry, I was handling many clients.\n11:22 For Rs 8,000 I expected daily check-ins. I might cancel and try Cult.fit instead."
+  },
+  {
+    "id": "chat_08",
+    "source": "screenshot_render",
+    "image": "renders/chat_08.png",
+    "language": "hi-en",
+    "themes": [
+      "T08"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "veg_plan",
+        "issue": "Vegetarian preference ignored",
+        "theme_id": "T08",
+        "feature_area": "personalization",
+        "severity": "medium",
+        "quote": "Dinner mein baar baar egg curry aur chicken soup suggest kar raha hai"
+      }
+    ],
+    "churn_evidence": [],
+    "pii": [],
+    "style": {
+      "mode": "dark",
+      "width": 412,
+      "font_px": 16
+    },
+    "note": "",
+    "messages": [
+      {
+        "sender": "customer",
+        "time": "16:15",
+        "text": "Mera diet plan galat lag raha hai, main strictly vegetarian hu."
+      },
+      {
+        "sender": "support",
+        "time": "16:17",
+        "text": "Kya hua? Plan mein kya dikh raha hai?"
+      },
+      {
+        "sender": "customer",
+        "time": "16:18",
+        "text": "Dinner mein baar baar egg curry aur chicken soup suggest kar raha hai."
+      },
+      {
+        "sender": "support",
+        "time": "16:20",
+        "text": "Hum aapka preference update kar dete hain."
+      },
+      {
+        "sender": "customer",
+        "time": "16:21",
+        "text": "Pehle bhi 2 baar update kiya tha, plan wahi aa raha hai."
+      }
+    ],
+    "ocr_reference": "16:15 Mera diet plan galat lag raha hai, main strictly vegetarian hu.\n16:17 Kya hua? Plan mein kya dikh raha hai?\n16:18 Dinner mein baar baar egg curry aur chicken soup suggest kar raha hai.\n16:20 Hum aapka preference update kar dete hain.\n16:21 Pehle bhi 2 baar update kiya tha, plan wahi aa raha hai."
+  },
+  {
+    "id": "chat_09",
+    "source": "screenshot_render",
+    "image": "renders/chat_09.png",
+    "language": "en",
+    "themes": [
+      "T01",
+      "T02"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "charged_after_trial",
+        "issue": "Charged before the free trial ended",
+        "theme_id": "T01",
+        "feature_area": "billing",
+        "severity": "high",
+        "quote": "my free trial was 7 days but Rs 1,499 got charged on day 6"
+      },
+      {
+        "issue_id": "cancel_not_found",
+        "issue": "Cannot find how to cancel in the app",
+        "theme_id": "T02",
+        "feature_area": "billing",
+        "severity": "high",
+        "quote": "there is no cancel button in the app anywhere"
+      }
+    ],
+    "churn_evidence": [
+      {
+        "flag": "refund_dispute",
+        "quote": "I will raise a dispute with my bank"
+      }
+    ],
+    "pii": [
+      {
+        "type": "PERSON",
+        "value": "Arjun"
+      }
+    ],
+    "style": {
+      "mode": "light",
+      "width": 360,
+      "font_px": 15
+    },
+    "note": "",
+    "messages": [
+      {
+        "sender": "customer",
+        "time": "12:30",
+        "text": "Hi, my free trial was 7 days but Rs 1,499 got charged on day 6."
+      },
+      {
+        "sender": "support",
+        "time": "12:33",
+        "text": "Hello Arjun, we are checking this."
+      },
+      {
+        "sender": "customer",
+        "time": "12:34",
+        "text": "I also tried to cancel but there is no cancel button in the app anywhere."
+      },
+      {
+        "sender": "support",
+        "time": "12:36",
+        "text": "Please cancel through the Google Play subscriptions page."
+      },
+      {
+        "sender": "customer",
+        "time": "12:38",
+        "text": "Why does the app not say that? Anyway, refund the money or I will raise a dispute with my bank."
+      }
+    ],
+    "ocr_reference": "12:30 Hi, my free trial was 7 days but Rs 1,499 got charged on day 6.\n12:33 Hello Arjun, we are checking this.\n12:34 I also tried to cancel but there is no cancel button in the app anywhere.\n12:36 Please cancel through the Google Play subscriptions page.\n12:38 Why does the app not say that? Anyway, refund the money or I will raise a dispute with my bank."
+  },
+  {
+    "id": "chat_10",
+    "source": "screenshot_render",
+    "image": "renders/chat_10.png",
+    "language": "en",
+    "themes": [],
+    "pain_points": [],
+    "churn_evidence": [],
+    "pii": [],
+    "style": {
+      "mode": "dark",
+      "width": 390,
+      "font_px": 16
+    },
+    "note": "No pain points: question + praise + feature request. Tests precision (nothing should be flagged).",
+    "messages": [
+      {
+        "sender": "customer",
+        "time": "15:02",
+        "text": "Hi! Can I use one subscription on two phones?"
+      },
+      {
+        "sender": "support",
+        "time": "15:04",
+        "text": "Yes, you can log in on up to 2 devices with the same account."
+      },
+      {
+        "sender": "customer",
+        "time": "15:05",
+        "text": "Great, thanks. By the way I love the new workout tracker, lost 4 kg already!"
+      },
+      {
+        "sender": "support",
+        "time": "15:06",
+        "text": "That is wonderful to hear, congratulations!"
+      },
+      {
+        "sender": "customer",
+        "time": "15:08",
+        "text": "One request: please add a water reminder widget."
+      }
+    ],
+    "ocr_reference": "15:02 Hi! Can I use one subscription on two phones?\n15:04 Yes, you can log in on up to 2 devices with the same account.\n15:05 Great, thanks. By the way I love the new workout tracker, lost 4 kg already!\n15:06 That is wonderful to hear, congratulations!\n15:08 One request: please add a water reminder widget."
+  }
+]

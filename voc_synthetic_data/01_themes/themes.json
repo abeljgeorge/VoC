@@ -1,0 +1,321 @@
+{
+  "app_context": "Fictional wellness/fitness app modelled on HealthifyMe-style Indian users. App name is never used in the data.",
+  "churn_flags": [
+    "cancel_intent",
+    "refund_dispute",
+    "competitor_mention",
+    "uninstall"
+  ],
+  "events": [
+    {
+      "date": "2026-08-18",
+      "event": "App release 8.4.0 (device sync rewrite)",
+      "type": "release",
+      "expected_effect": "T04 sync complaints and T06 crash/login complaints rise"
+    },
+    {
+      "date": "2026-09-15",
+      "event": "Hotfix 8.4.1 (sync fix)",
+      "type": "hotfix",
+      "expected_effect": "T04 returns to baseline within ~1 week"
+    },
+    {
+      "date": "2026-09-20",
+      "event": "Annual plan price change and new renewal flow",
+      "type": "pricing",
+      "expected_effect": "T01 and T02 volume rises and stays higher"
+    }
+  ],
+  "themes": [
+    {
+      "theme_id": "T01",
+      "name": "Unexpected subscription charges",
+      "feature_area": "billing",
+      "frequency": "high",
+      "description": "Customers charged twice, charged before trial ends, auto-renewed without notice, or charged more than shown.",
+      "expected_churn_flags": [
+        "refund_dispute"
+      ],
+      "planted_unique_tickets": 30,
+      "issues": [
+        {
+          "issue_id": "double_charge",
+          "label": "Charged twice for the same plan",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "charged_after_trial",
+          "label": "Charged before the free trial ended",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "renewal_without_notice",
+          "label": "Auto-renewal with no reminder",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "price_mismatch",
+          "label": "Charged more than the price shown",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "failed_payment_debited",
+          "label": "Payment failed but money was debited",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "hidden_taxes",
+          "label": "Extra charges not shown at checkout",
+          "default_severity": "medium"
+        }
+      ]
+    },
+    {
+      "theme_id": "T02",
+      "name": "Cancellation and refund friction",
+      "feature_area": "billing",
+      "frequency": "high",
+      "description": "Cannot find how to cancel, conflicting instructions, refunds denied or delayed, charged after cancelling.",
+      "expected_churn_flags": [
+        "cancel_intent",
+        "refund_dispute"
+      ],
+      "planted_unique_tickets": 25,
+      "issues": [
+        {
+          "issue_id": "cancel_not_found",
+          "label": "Cannot find how to cancel in the app",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "cancel_redirect",
+          "label": "Conflicting cancellation instructions",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "refund_denied",
+          "label": "Refund request refused",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "refund_delay",
+          "label": "Approved refund not received",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "cancel_continues",
+          "label": "Charged again after cancelling",
+          "default_severity": "high"
+        }
+      ]
+    },
+    {
+      "theme_id": "T03",
+      "name": "Food logging and calorie inaccuracy",
+      "feature_area": "food_tracking",
+      "frequency": "high",
+      "description": "Wrong calories for Indian dishes, no katori/roti units, missing home-cooked foods, barcode scan failures.",
+      "expected_churn_flags": [
+        "competitor_mention"
+      ],
+      "planted_unique_tickets": 26,
+      "issues": [
+        {
+          "issue_id": "wrong_calories",
+          "label": "Calorie values wrong for Indian dishes",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "portion_units",
+          "label": "No katori/roti portion units",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "missing_foods",
+          "label": "Home-cooked dishes missing from database",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "duplicate_entries",
+          "label": "Many conflicting entries for one food",
+          "default_severity": "low"
+        },
+        {
+          "issue_id": "barcode_fail",
+          "label": "Barcode scan does not recognise products",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "macro_mismatch",
+          "label": "Macros do not add up to calories",
+          "default_severity": "medium"
+        }
+      ]
+    },
+    {
+      "theme_id": "T04",
+      "name": "Wearable and step sync failures",
+      "feature_area": "device_sync",
+      "frequency": "high (spike)",
+      "description": "Steps/sleep not syncing from bands and watches, Google Fit disconnecting. Spikes after release 8.4.0, drops after hotfix 8.4.1.",
+      "expected_churn_flags": [
+        "uninstall",
+        "competitor_mention"
+      ],
+      "planted_unique_tickets": 33,
+      "issues": [
+        {
+          "issue_id": "steps_not_syncing",
+          "label": "Steps not syncing from wearable",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "sync_delay",
+          "label": "Wearable sync delayed by hours",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "reconnect_drops",
+          "label": "Google Fit connection keeps dropping",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "sleep_missing",
+          "label": "Sleep data missing after update",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "duplicate_steps",
+          "label": "Steps counted twice after sync",
+          "default_severity": "medium"
+        }
+      ]
+    },
+    {
+      "theme_id": "T05",
+      "name": "Onboarding and setup confusion",
+      "feature_area": "onboarding",
+      "frequency": "medium",
+      "description": "Too many setup questions, unclear goal setting, paywall before value, stuck on first step.",
+      "expected_churn_flags": [
+        "uninstall"
+      ],
+      "planted_unique_tickets": 20,
+      "issues": [
+        {
+          "issue_id": "too_many_questions",
+          "label": "Setup asks too many questions",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "goal_unclear",
+          "label": "Cannot work out how to set a goal",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "paywall_early",
+          "label": "Paywall shown before value is clear",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "setup_stuck",
+          "label": "Stuck on first setup step",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "unclear_plan_steps",
+          "label": "No guidance on what to do each day",
+          "default_severity": "medium"
+        }
+      ]
+    },
+    {
+      "theme_id": "T06",
+      "name": "Login, OTP and app stability",
+      "feature_area": "login_stability",
+      "frequency": "medium (spike)",
+      "description": "OTP never arrives, crashes after update, repeated logouts, slow loading. Small spike right after release 8.4.0.",
+      "expected_churn_flags": [
+        "uninstall"
+      ],
+      "planted_unique_tickets": 16,
+      "issues": [
+        {
+          "issue_id": "otp_not_received",
+          "label": "OTP login code never arrives",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "crash_after_update",
+          "label": "App crashes on launch after update",
+          "default_severity": "critical"
+        },
+        {
+          "issue_id": "logged_out",
+          "label": "Repeated logouts lose the day's log",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "slow_load",
+          "label": "Home screen very slow to load",
+          "default_severity": "medium"
+        }
+      ]
+    },
+    {
+      "theme_id": "T07",
+      "name": "Coach responsiveness and value for price",
+      "feature_area": "coaching",
+      "frequency": "low",
+      "description": "Slow coach replies, generic diet charts, premium not worth the price.",
+      "expected_churn_flags": [
+        "cancel_intent",
+        "competitor_mention"
+      ],
+      "planted_unique_tickets": 11,
+      "issues": [
+        {
+          "issue_id": "coach_slow",
+          "label": "Coach replies take days",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "coach_generic",
+          "label": "Generic copy-pasted diet chart",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "price_value",
+          "label": "Premium not worth the price",
+          "default_severity": "medium"
+        }
+      ]
+    },
+    {
+      "theme_id": "T08",
+      "name": "Diet plan does not fit my needs",
+      "feature_area": "personalization",
+      "frequency": "rare",
+      "description": "Plans ignore diabetes, vegetarian preference or regional cuisine. Deliberately rare to test long-tail detection.",
+      "expected_churn_flags": [],
+      "planted_unique_tickets": 7,
+      "issues": [
+        {
+          "issue_id": "diabetic_plan",
+          "label": "Meal plan ignores diabetes",
+          "default_severity": "high"
+        },
+        {
+          "issue_id": "veg_plan",
+          "label": "Vegetarian preference ignored",
+          "default_severity": "medium"
+        },
+        {
+          "issue_id": "regional_plan",
+          "label": "No regional (South Indian) meal options",
+          "default_severity": "low"
+        }
+      ]
+    }
+  ]
+}

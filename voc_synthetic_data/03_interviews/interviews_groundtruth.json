@@ -1,0 +1,237 @@
+[
+  {
+    "id": "int_01",
+    "source": "interview",
+    "persona": "Priya, 29, software engineer, Bengaluru",
+    "language": "en",
+    "themes": [
+      "T01",
+      "T02"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "charged_after_trial",
+        "issue": "Charged before the free trial ended",
+        "theme_id": "T01",
+        "feature_area": "billing",
+        "severity": "high",
+        "quote": "I was charged Rs 1,499 on day six, a full day before the trial was supposed to end"
+      },
+      {
+        "issue_id": "cancel_not_found",
+        "issue": "Cannot find how to cancel in the app",
+        "theme_id": "T02",
+        "feature_area": "billing",
+        "severity": "high",
+        "quote": "I could not find the cancel option anywhere in the app"
+      },
+      {
+        "issue_id": "refund_denied",
+        "issue": "Refund request refused",
+        "theme_id": "T02",
+        "feature_area": "billing",
+        "severity": "high",
+        "quote": "They said refunds are only possible within 48 hours"
+      }
+    ],
+    "churn_evidence": [
+      {
+        "flag": "cancel_intent",
+        "quote": "I tried to cancel immediately"
+      },
+      {
+        "flag": "refund_dispute",
+        "quote": "I will file a dispute with my bank"
+      },
+      {
+        "flag": "uninstall",
+        "quote": "I have already deleted the app from my phone"
+      }
+    ],
+    "positives": [
+      "The food diary is nice and simple"
+    ],
+    "transcript": "INTERVIEWER: Thanks for joining, Priya. Can you tell me how you started using the app?\nPRIYA: Sure. I signed up in July after a colleague recommended it. I took the seven day free trial because I wanted to see if the meal logging was actually any good.\nINTERVIEWER: And how did the trial go?\nPRIYA: The trial was fine, honestly. The problem started after that. I was charged Rs 1,499 on day six, a full day before the trial was supposed to end. Nobody warned me, there was no email, nothing.\nINTERVIEWER: What did you do when you noticed?\nPRIYA: I tried to cancel immediately. But I could not find the cancel option anywhere in the app. I went through settings, profile, even the help section. In the end I had to Google how to cancel, and it sent me to the Play Store.\nINTERVIEWER: Did you contact support?\nPRIYA: Yes, and that was another round of waiting. They said refunds are only possible within 48 hours, and by the time they replied it was day three. So I got a no.\nINTERVIEWER: How did that make you feel about the app?\nPRIYA: Honestly, it felt like a trap. I would have happily paid after the trial if I liked it. Now I just want my money back, and if I do not get it I will file a dispute with my bank. I have already deleted the app from my phone.\nINTERVIEWER: Was there anything you liked?\nPRIYA: The food diary is nice and simple, I will give it that.",
+    "word_count": 249
+  },
+  {
+    "id": "int_02",
+    "source": "interview",
+    "persona": "Rahul, 34, sales manager, Pune",
+    "language": "hi-en",
+    "themes": [
+      "T04",
+      "T03"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "steps_not_syncing",
+        "issue": "Steps not syncing from wearable",
+        "theme_id": "T04",
+        "feature_area": "device_sync",
+        "severity": "high",
+        "quote": "pichle update ke baad steps sync hi nahi ho rahe"
+      },
+      {
+        "issue_id": "reconnect_drops",
+        "issue": "Google Fit connection keeps dropping",
+        "theme_id": "T04",
+        "feature_area": "device_sync",
+        "severity": "high",
+        "quote": "ek din chalta hai aur phir disconnect ho jata hai"
+      },
+      {
+        "issue_id": "wrong_calories",
+        "issue": "Calorie values wrong for Indian dishes",
+        "theme_id": "T03",
+        "feature_area": "food_tracking",
+        "severity": "medium",
+        "quote": "Ek paratha ke liye 450 kcal bata raha tha, jabki ghar ka paratha mere hisaab se 250 ke aaspaas hoga"
+      },
+      {
+        "issue_id": "portion_units",
+        "issue": "No katori/roti portion units",
+        "theme_id": "T03",
+        "feature_area": "food_tracking",
+        "severity": "medium",
+        "quote": "katori ke hisaab se log karne ka option bhi nahi hai, sirf grams"
+      }
+    ],
+    "churn_evidence": [
+      {
+        "flag": "competitor_mention",
+        "quote": "Ab main Fittr pe shift hone ka soch raha hu"
+      }
+    ],
+    "positives": [
+      "Workout ideas achhe hain"
+    ],
+    "transcript": "INTERVIEWER: Rahul, thoda batao, aap app kaise use karte ho?\nRAHUL: Haan, main roz subah daily steps aur khana log karta hu. Mi Band 6 hai mere paas, usse sync karta hu app ko.\nINTERVIEWER: Sync ka experience kaisa raha?\nRAHUL: Pehle sab theek tha, par pichle update ke baad steps sync hi nahi ho rahe. App mein zero dikhata hai jabki band mein aath hazaar se zyada steps hote hain. Do hafte se aisa chal raha hai.\nINTERVIEWER: Phir aapne kya kiya?\nRAHUL: Maine band dobara pair kiya, Google Fit bhi reconnect kiya, par ek din chalta hai aur phir disconnect ho jata hai. Bahut frustrating hai.\nINTERVIEWER: Aur food logging ka?\nRAHUL: Wahan bhi problem hai. Dal chawal ya paratha jaisi cheezein log karta hu toh calories bahut galat dikhati hain. Ek paratha ke liye 450 kcal bata raha tha, jabki ghar ka paratha mere hisaab se 250 ke aaspaas hoga. Aur katori ke hisaab se log karne ka option bhi nahi hai, sirf grams.\nINTERVIEWER: Kabhi koi aur app try kiya?\nRAHUL: Haan, mere dost Fittr use karta hai, uska tracking zyada accurate lagta hai. Ab main Fittr pe shift hone ka soch raha hu.\nINTERVIEWER: Last mein kuch accha laga?\nRAHUL: Workout ideas achhe hain, wo pasand aaye.",
+    "word_count": 200
+  },
+  {
+    "id": "int_03",
+    "source": "interview",
+    "persona": "Anita, 45, school teacher, Hyderabad",
+    "language": "en",
+    "themes": [
+      "T05",
+      "T08"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "too_many_questions",
+        "issue": "Setup asks too many questions",
+        "theme_id": "T05",
+        "feature_area": "onboarding",
+        "severity": "medium",
+        "quote": "The setup asked me so many questions, about twenty I think, that I gave up halfway the first time"
+      },
+      {
+        "issue_id": "paywall_early",
+        "issue": "Paywall shown before value is clear",
+        "theme_id": "T05",
+        "feature_area": "onboarding",
+        "severity": "medium",
+        "quote": "a payment screen popped up before I even understood what the app does"
+      },
+      {
+        "issue_id": "goal_unclear",
+        "issue": "Cannot work out how to set a goal",
+        "theme_id": "T05",
+        "feature_area": "onboarding",
+        "severity": "medium",
+        "quote": "I could not figure out how to set my weight loss goal"
+      },
+      {
+        "issue_id": "diabetic_plan",
+        "issue": "Meal plan ignores diabetes",
+        "theme_id": "T08",
+        "feature_area": "personalization",
+        "severity": "high",
+        "quote": "I am diabetic, and the meal plan keeps suggesting sweet things like fruit smoothies and honey oats"
+      },
+      {
+        "issue_id": "veg_plan",
+        "issue": "Vegetarian preference ignored",
+        "theme_id": "T08",
+        "feature_area": "personalization",
+        "severity": "medium",
+        "quote": "I also eat only vegetarian food, and it still showed me an egg recipe once"
+      }
+    ],
+    "churn_evidence": [],
+    "positives": [
+      "The reminders are nice though"
+    ],
+    "transcript": "INTERVIEWER: Anita, how did you first start with the app?\nANITA: My doctor suggested I lose some weight, and my daughter installed the app for me. I am not very comfortable with technology, so I was nervous.\nINTERVIEWER: What was the first experience like?\nANITA: Honestly confusing. The setup asked me so many questions, about twenty I think, that I gave up halfway the first time. And then right after I signed up, a payment screen popped up before I even understood what the app does.\nINTERVIEWER: Did you figure out the goal setting?\nANITA: Not really. I could not figure out how to set my weight loss goal. The first screen does not explain what to do next. My daughter had to sit with me and do it.\nINTERVIEWER: What about the meal plan?\nANITA: That is my bigger problem. I am diabetic, and the meal plan keeps suggesting sweet things like fruit smoothies and honey oats. There is no way to tell the app about my condition. I also eat only vegetarian food, and it still showed me an egg recipe once.\nINTERVIEWER: Would you recommend it?\nANITA: Maybe to my younger relatives. For someone like me, it needs to be much simpler, and it should understand medical conditions. The reminders are nice though.",
+    "word_count": 206
+  },
+  {
+    "id": "int_04",
+    "source": "interview",
+    "persona": "Karthik, 26, product analyst, Chennai",
+    "language": "hi-en (light code-mixing)",
+    "themes": [
+      "T06",
+      "T07"
+    ],
+    "pain_points": [
+      {
+        "issue_id": "otp_not_received",
+        "issue": "OTP login code never arrives",
+        "theme_id": "T06",
+        "feature_area": "login_stability",
+        "severity": "high",
+        "quote": "the OTP never came. I tried like five times over two days"
+      },
+      {
+        "issue_id": "logged_out",
+        "issue": "Repeated logouts lose the day's log",
+        "theme_id": "T06",
+        "feature_area": "login_stability",
+        "severity": "high",
+        "quote": "I got logged out again the next morning"
+      },
+      {
+        "issue_id": "coach_slow",
+        "issue": "Coach replies take days",
+        "theme_id": "T07",
+        "feature_area": "coaching",
+        "severity": "medium",
+        "quote": "the replies take two to three days"
+      },
+      {
+        "issue_id": "coach_generic",
+        "issue": "Generic copy-pasted diet chart",
+        "theme_id": "T07",
+        "feature_area": "coaching",
+        "severity": "medium",
+        "quote": "the diet chart is the same generic thing they send everybody"
+      },
+      {
+        "issue_id": "price_value",
+        "issue": "Premium not worth the price",
+        "theme_id": "T07",
+        "feature_area": "coaching",
+        "severity": "medium",
+        "quote": "I think the premium plan is not worth the money"
+      }
+    ],
+    "churn_evidence": [
+      {
+        "flag": "competitor_mention",
+        "quote": "Strava gives me my run tracking for free and works better"
+      },
+      {
+        "flag": "uninstall",
+        "quote": "I uninstalled it yesterday"
+      }
+    ],
+    "positives": [
+      "The workout library was good"
+    ],
+    "transcript": "INTERVIEWER: Karthik, tell me about the last time you opened the app.\nKARTHIK: Yaar, last week I tried to log in after changing my phone and the OTP never came. I tried like five times over two days. Finally I used the email option, and then I got logged out again the next morning.\nINTERVIEWER: That sounds annoying. What else?\nKARTHIK: The coach part. I pay for a personal coach, Rs 6,000 for three months, but the replies take two to three days. For this price I expected daily check-ins. And the diet chart is the same generic thing they send everybody.\nINTERVIEWER: Did you ever raise it with them?\nKARTHIK: I messaged the coach twice, same pattern. Honestly I think the premium plan is not worth the money. Strava gives me my run tracking for free and works better.\nINTERVIEWER: Are you still using the app?\nKARTHIK: I uninstalled it yesterday. Maybe I will come back if the coach thing improves.\nINTERVIEWER: Anything you liked?\nKARTHIK: The workout library was good, no complaints there.",
+    "word_count": 165
+  }
+]

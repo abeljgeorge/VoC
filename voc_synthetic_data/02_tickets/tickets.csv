@@ -1,0 +1,399 @@
+id,source,date,text,metadata
+tkt_0001,support_ticket,2026-07-01 10:55,"Hello,
+
+Roti ya katori ke hisaab se log karne ka option hi nahi hai, sirf grams. Kaafi irritating hai. Kal hi app update kiya tha. Reply ka wait hai.","{""ticket_id"": ""TKT-10007"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Premium Plus"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Kolkata""}"
+tkt_0002,support_ticket,2026-07-01 13:15,"Hi team,
+
+App ke workouts mast hain. Par Subscription cancel karne ka option app mein mil hi nahi raha, settings mein 3 baar dekha. Main ek saal se premium user hu. Please check karo.","{""ticket_id"": ""TKT-10014"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Ahmedabad""}"
+tkt_0003,support_ticket,2026-07-01 20:10,"Hello,
+
+baar baar logout ho jata hu aur din ka food log gayab ho jata hai Mera registered number +91 93029 99282 hai.
+
+Thanks,
+Suresh Singh","{""ticket_id"": ""TKT-10021"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Kochi""}"
+tkt_0004,support_ticket,2026-07-02 18:15,"Hi,
+
+how do i change my registered email id?","{""ticket_id"": ""TKT-10028"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Bengaluru""}"
+tkt_0005,support_ticket,2026-07-03 21:24,"Hello support,
+
+Sync with Galaxy Watch takes hours. My workouts appaer the next day, which defeats the whole point of tracking. I have been a premium user for over a year.","{""ticket_id"": ""TKT-10035"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Kolkata""}"
+tkt_0006,support_ticket,2026-07-05 09:04,"The setup asks way too many questions before showing anything useful. I gave up halfway. Also, I told the app I am strictly vegetarian and it still suggests egg and chicken meals. This has been happening since last week.","{""ticket_id"": ""TKT-10042"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Jaipur""}"
+tkt_0007,support_ticket,2026-07-06 14:32,"ऐप में सेटअप बहुत लंबा है, बीच में ही छोड़ दिया।","{""ticket_id"": ""TKT-10049"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Chennai""}"
+tkt_0008,support_ticket,2026-07-06 14:35,EXTRA TAXES WERE ADDED AT CHECKOUT THAT WERE NEVER SHOWN EARLIER. FEELS MISLEADING. I use an Android phone. Kindly look into it.,"{""ticket_id"": ""TKT-10056"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Chennai""}"
+tkt_0009,support_ticket,2026-07-07 22:20,I pay for a personal ocach but replies take 2 to 3 days. For this price I expected daily check-ins. Waiting for your response.,"{""ticket_id"": ""TKT-10063"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Mumbai""}"
+tkt_0010,support_ticket,2026-07-08 10:56,"Barcode scan karne par product not found aata hai, packaged cheezein bhi nahi milti.","{""ticket_id"": ""TKT-10070"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Kochi""}"
+tkt_0011,support_ticket,2026-07-09 11:22,"Hi team,
+
+The price shown on the paywall was Rs 2,499 but the final amount charged was Rs 2,999. Please fix this soon.","{""ticket_id"": ""TKT-10077"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Kochi""}"
+tkt_0012,support_ticket,2026-07-09 18:51,"Namaste team,
+
+Latest update ke baad Galaxy Watch se steps sync nahi ho rahe. App mein zero dikha raha hai jabki watch mein 8,700 se zyada hain!!! Please check karo.","{""ticket_id"": ""TKT-10084"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Hyderabad""}"
+tkt_0013,support_ticket,2026-07-11 21:17,"Bahut accha app hai, 5 mahine mein 7 kg kam kiya. Thanks team!","{""ticket_id"": ""TKT-10091"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Jaipur""}"
+tkt_0014,support_ticket,2026-07-12 11:02,"My daily macros do not add up. Total calories do not match the protein, carbs and fat shown.","{""ticket_id"": ""TKT-10098"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Kolkata""}"
+tkt_0015,support_ticket,2026-07-13 09:41,Right after signup I hit a paywall before I even understood what the app does. I have uninstalled the app. My email is meera.singh90@example.com. Thanks.,"{""ticket_id"": ""TKT-10105"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Pune""}"
+tkt_0016,support_ticket,2026-07-13 12:44,"Hi team,
+
+I really like the workout library. That said, I asked for a refund within 2 days of renewal and was told it is not possible. This is not fair for an unused plan. I updated the app yesterday. Strava does this much better. Please fix this soon.","{""ticket_id"": ""TKT-10112"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Hyderabad""}"
+tkt_0017,support_ticket,2026-07-14 12:50,"To whom it may concern,
+
+The calorie count for masala dosa is way off. The database shows 480 kcal but a normal serving is closer to 250. Also, Sync with boAt Watch takes hours. My workouts appear the next day, which defeats the whole point of tracking!!! Please fix this soon.","{""ticket_id"": ""TKT-10119"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Hyderabad""}"
+tkt_0018,support_ticket,2026-07-16 19:14,How do I change my registered email id?,"{""ticket_id"": ""TKT-10126"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Ahmedabad""}"
+tkt_0019,support_ticket,2026-07-17 22:38,"Hi team,
+
+Ek dark mode add kar do please.","{""ticket_id"": ""TKT-10133"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Pune""}"
+tkt_0020,support_ticket,2026-07-18 13:15,"Barcode scan does not recognise most packaged items I buy, it just says product not found!!! My email is rohan.khan95@example.com.","{""ticket_id"": ""TKT-10140"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Jaipur""}"
+tkt_0021,support_ticket,2026-07-19 14:03,"The price shown on the paywall was Rs 3,499 but the final amount charged was Rs 3,999. This is the second time I am raising this.","{""ticket_id"": ""TKT-10147"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Kolkata""}"
+tkt_0022,support_ticket,2026-07-20 09:37,I got stuck on the first setup step and the Next button does nothing. Had to reinstall. This has been happening since last week. My registered mobile number is +91 72731 31544. Kindly look into it.,"{""ticket_id"": ""TKT-10154"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Delhi""}"
+tkt_0023,support_ticket,2026-07-20 10:21,"Hi team,
+
+Premium costs Rs 2,999 a year and honestly the free features of other apps do the same job. I use an Android phone.","{""ticket_id"": ""TKT-10161"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Bengaluru""}"
+tkt_0024,support_ticket,2026-07-21 12:07,"Namaste team,
+
+Ghar ka khana jaise pesarattu app mein milta hi nahi, har baar manually add karna padta hai. Mera registered number +91 92293 66440 hai. Reply ka wait hai.
+
+- Rohan Rao","{""ticket_id"": ""TKT-10168"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Chennai""}"
+tkt_0025,support_ticket,2026-07-21 14:42,"Hi team,
+
+Main diabetic hu par meal plan mein meethi cheezein hi suggest hoti hain. Mera registered number +91 76421 46458 hai. Jaldi fix karo please.
+
+- Kavya Khan","{""ticket_id"": ""TKT-10175"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Pune""}"
+tkt_0026,support_ticket,2026-07-22 11:16,"The Google Fit connection keeps dropping. I reconnect and it works for a day, then disconnects again. Please cancel my subscription right away. Kindly look into it.","{""ticket_id"": ""TKT-10182"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Pune""}"
+tkt_0027,support_ticket,2026-07-23 09:17,The app design is lovely and the coaches are nice. But I cancelled my plan last month but I have been charged again!!! This is the second time I am raising this. My email is karthik.nair38@example.com. Kindly look into it.,"{""ticket_id"": ""TKT-10189"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Kochi""}"
+tkt_0028,support_ticket,2026-07-25 12:54,"Hi team,
+
+I got stuck on the first setup step and the Next button does nothing. Had to reinstall. My registered mobile number is +91 71509 63004. Kindly look into it.
+
+Regards,
+Divya Nair","{""ticket_id"": ""TKT-10196"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Kolkata""}"
+tkt_0029,support_ticket,2026-07-26 16:47,"Hi team,
+
+Latest update ke baad Noise ColorFit se steps sync nahi ho rahe. App mein zero dikha raha hai jabki watch mein 9,800 se zyada hain. Mera registered number +91 94043 99088 hai.","{""ticket_id"": ""TKT-10203"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Delhi""}"
+tkt_0030,support_ticket,2026-07-27 09:30,"Paywall pe Rs 999 dikhaya tha par final amount Rs 1,499 charge hua. Ye doosri baar mail kar raha hu. Please check karo.","{""ticket_id"": ""TKT-10210"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Jaipur""}"
+tkt_0031,support_ticket,2026-07-29 16:46,I pay for a personal coach but replies take 2 to 3 days. For this price I expected daily check-ins. Thanks.,"{""ticket_id"": ""TKT-10217"", ""priority"": ""P3"", ""status"": ""In Progress"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Chennai""}"
+tkt_0032,support_ticket,2026-07-30 14:23,"Hi,
+
+The calorie count for paneer butter masala is way off. The database shows 520 kcal but a normla serving is closer to 320.","{""ticket_id"": ""TKT-10224"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Pune""}"
+tkt_0033,support_ticket,2026-07-31 22:09,I got stuck on the first setup step and the Next button does nothing. Had to reinstall. My registered mobile number is +91 96883 72873. Thanks.,"{""ticket_id"": ""TKT-10231"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Mumbai""}"
+tkt_0034,support_ticket,2026-08-01 15:44,"To whom it may concern,
+
+My daily macros do not add up. Total calories do not match the protein, carbs and fat shown. This is the second time I am raising this. Please fix this soon.","{""ticket_id"": ""TKT-10238"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Chennai""}"
+tkt_0035,support_ticket,2026-08-02 09:25,"Hi team,
+
+Latest update ke baad Fitbit Charge 5 se steps sync nahi ho rahe. App mein zero dikha raha hai jabki watch mein 6,500 se zyada hain. Jaldi fix karo please.","{""ticket_id"": ""TKT-10245"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Plus"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Kolkata""}"
+tkt_0036,support_ticket,2026-08-03 17:34,Where can I download my progress report as a PDF?,"{""ticket_id"": ""TKT-10252"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Pune""}"
+tkt_0037,support_ticket,2026-08-04 20:08,"Hello support,
+
+The app crashes on launch since the latest update. I cannot even open it.","{""ticket_id"": ""TKT-10259"", ""priority"": ""P1"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Pune""}"
+tkt_0038,support_ticket,2026-08-07 10:52,Main strictly vegetarian hu par plan mein baar baar egg aur chicken suggest karta hai. Mere paas Android phone hai. Maine app uninstall kar diya hai. Thanks.,"{""ticket_id"": ""TKT-10266"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Kolkata""}"
+tkt_0039,support_ticket,2026-08-08 14:08,"Namaste team,
+
+Auto-renewal ka koi message nahi aaya, seedha Rs 2,999 deduct ho gaye annual plan ke. Mere paas Android phone hai.","{""ticket_id"": ""TKT-10273"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Delhi""}"
+tkt_0040,support_ticket,2026-08-08 19:39,Right after signup I hit a paywall before I even understood what the app does. I updated the app yesterday. Please fix this soon.,"{""ticket_id"": ""TKT-10280"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Mumbai""}"
+tkt_0041,support_ticket,2026-08-08 21:40,"Hello support,
+
+I asked for a refund within 2 days of renewal and was told it is not possible. This is not fair for an unused plan. This is the second time I am raising this. Please cancel my subscription right away. Thanks.","{""ticket_id"": ""TKT-10287"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Ahmedabad""}"
+tkt_0042,support_ticket,2026-08-10 20:10,"Namaste team,
+
+Roti ya katori ke hisaab se log karne ka option hi nahi hai, sirf grams. Kaafi irritating hai. Mere paas Android phone hai. Jaldi fix karo please.","{""ticket_id"": ""TKT-10294"", ""priority"": ""P3"", ""status"": ""Open"", ""channel"": ""chat"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Kochi""}"
+tkt_0043,support_ticket,2026-08-12 11:47,"Hello,
+
+Setup mein itne saare sawaal hain ki beech mein hi chhod diya. Please check karo.","{""ticket_id"": ""TKT-10301"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Chennai""}"
+tkt_0044,support_ticket,2026-08-13 22:08,"Namaste team,
+
+Plan mein South Indian khana hai hi nahi, sab north Indian aur western hai.","{""ticket_id"": ""TKT-10308"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Pune""}"
+tkt_0045,support_ticket,2026-08-14 11:26,"Love the app, lost 7 kg in 3 months. The food diary is simple to use.","{""ticket_id"": ""TKT-10315"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""chat"", ""plan"": ""Premium Plus"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Jaipur""}"
+tkt_0046,support_ticket,2026-08-14 17:51,Yoga session log karne ka option add karo.,"{""ticket_id"": ""TKT-10322"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Ahmedabad""}"
+tkt_0047,support_ticket,2026-08-15 08:42,"Hi team,
+
+I pay for a personal coach but replies take 2 to 3 days. For this price I expected daily check-ins. My registered mobile number is +91 86901 98705. Please fix this soon.","{""ticket_id"": ""TKT-10329"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""iOS"", ""app_version"": ""8.3.2"", ""city"": ""Ahmedabad""}"
+tkt_0048,support_ticket,2026-08-15 17:29,"Two identical payments of Rs 2,999 went out for one Premium Monthly subscription.","{""ticket_id"": ""TKT-10336"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Chennai""}"
+tkt_0049,support_ticket,2026-08-15 21:55,Kya ek subscription do phone mein chal sakta hai?,"{""ticket_id"": ""TKT-10343"", ""priority"": ""P4"", ""status"": ""Open"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Jaipur""}"
+tkt_0050,support_ticket,2026-08-15 22:18,"Hello support,
+
+BARCODE SCAN DOES NOT RECOGNISE MOST PACKAGED ITEMS I BUY, IT JUST SAYS PRODUCT NOT FOUND.
+
+- Lakshmi Rao","{""ticket_id"": ""TKT-10350"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Kolkata""}"
+tkt_0051,support_ticket,2026-08-16 08:11,"Hi,
+
+Support keeps telling me to cancel from Google Play but the app says to cancel on your website. Nobody gives a straight answer. I updated the app yesterday. I will not renew this plan. Thanks.","{""ticket_id"": ""TKT-10357"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Jaipur""}"
+tkt_0052,support_ticket,2026-08-17 08:50,Sleep data from my Galaxy Watch is not showing in the app at all since the update. This has been happening since last week. Please fix this soon.,"{""ticket_id"": ""TKT-10364"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""chat"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Mumbai""}"
+tkt_0053,support_ticket,2026-08-17 11:02,"Hello support,
+
+Can I use one subscription on two phones?!!!","{""ticket_id"": ""TKT-10371"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.3.2"", ""city"": ""Jaipur""}"
+tkt_0054,support_ticket,2026-08-18 13:24,REMINDER: Sleep data from my Galaxy Watch is not showing in the app at all since the update. This has been happening since last week. Please fix this soon.,"{""ticket_id"": ""TKT-10378"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Mumbai""}"
+tkt_0055,support_ticket,2026-08-18 14:48,Baar baar logout ho jata hu aur din ka food log gayab ho jata hai. Ye pichle hafte se ho raha hai.,"{""ticket_id"": ""TKT-10385"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Bengaluru""}"
+tkt_0056,support_ticket,2026-08-18 22:32,"Steps from my boAt Watch stopped syncing after the latest update. The app shows zero steps while the watch shows over 9,600.","{""ticket_id"": ""TKT-10392"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""iOS"", ""app_version"": ""8.4.0"", ""city"": ""Chennai""}"
+tkt_0057,support_ticket,2026-08-19 09:58,"Since the update my Noise ColorFit steps do not sync at all, the app keeps showing 0. Please fix this soon.","{""ticket_id"": ""TKT-10399"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Bengaluru""}"
+tkt_0058,support_ticket,2026-08-19 12:57,"Barcode scan does not recognise most packaged ietms I buy, it just says product not found. Uninstalling this now. Thanks.","{""ticket_id"": ""TKT-10406"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""iOS"", ""app_version"": ""8.4.0"", ""city"": ""Ahmedabad""}"
+tkt_0059,support_ticket,2026-08-20 12:01,"Login ke time OTP aata hi nahi, 3 din se try kar raha hu. Thanks.","{""ticket_id"": ""TKT-10413"", ""priority"": ""P2"", ""status"": ""In Progress"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kolkata""}"
+tkt_0060,support_ticket,2026-08-21 10:36,"The app crashes on launch since the latest update. I cannot even open it. My registered mobile number is +91 91635 61877. Waiting for your response.
+
+Regards,
+Imran Reddy","{""ticket_id"": ""TKT-10420"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Mumbai""}"
+tkt_0061,support_ticket,2026-08-21 13:16,"Hi team,
+
+After syncing, my steps are counted twice, once from the phone and once from the band. Thanks.","{""ticket_id"": ""TKT-10427"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Bengaluru""}"
+tkt_0062,support_ticket,2026-08-21 20:37,"Coach ne bahut help ki, mast experience raha.","{""ticket_id"": ""TKT-10434"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Chennai""}"
+tkt_0063,support_ticket,2026-08-22 15:41,Baar baar logout ho jata hu aur din ka food log gayab ho jata hai. Jaldi fix karo please.,"{""ticket_id"": ""TKT-10441"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Chennai""}"
+tkt_0064,support_ticket,2026-08-23 10:25,"Hello support,
+
+Sync with boAt Watch takes hours. My workouts appear the next day, which defeats the whole point of tracking. I updated the app yesterday. Thanks.","{""ticket_id"": ""TKT-10448"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kolkata""}"
+tkt_0065,support_ticket,2026-08-23 15:22,"Namaste team,
+
+ghar ka khana jaise pesarattu app mein milta hi nahi, har baar manually add karna padta hai Ye doosri baar mail kar raha hu.","{""ticket_id"": ""TKT-10455"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Hyderabad""}"
+tkt_0066,support_ticket,2026-08-23 18:04,"Hello support,
+
+After syncing, my steps are counted twice, once from the phone and once from the band. Also, The app crashes on launch since the latest update. I cannot even open it!!! My email is arjun.das74@example.com. Kindly look into it.","{""ticket_id"": ""TKT-10462"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Mumbai""}"
+tkt_0067,support_ticket,2026-08-24 12:17,I keep getting logged out and lose my food log for the day. This is the second time I am raising this. Waiting for your response.,"{""ticket_id"": ""TKT-10469"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Delhi""}"
+tkt_0068,support_ticket,2026-08-24 19:00,"Hello support,
+
+I could not figure out how to set my weight loss goal. The first screen does not explain what to do next. This is the second time I am raising this. My email is deepak.joshi66@example.com. Waiting for your response.","{""ticket_id"": ""TKT-10476"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Jaipur""}"
+tkt_0069,support_ticket,2026-08-24 20:00,"payment failed in the app but the money was debited from my bank and my premium is still not active Also, I cancelled my plan last month but I have been charged again. I updated the app yesterday. Thinking of switching to Fittr. Kindly look into it.","{""ticket_id"": ""TKT-10483"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kolkata""}"
+tkt_0070,support_ticket,2026-08-24 22:34,"Namaste team,
+
+GOOGLE FIT CONNECT KARTA HU TOH EK DIN CHALTA HAI, PHIR APNE AAP DISCONNECT HO JATA HAI. Please check karo.","{""ticket_id"": ""TKT-10490"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Jaipur""}"
+tkt_0071,support_ticket,2026-08-25 13:22,Coach ke liye paise diye par jawab 2-3 din mein aate hain. Is price mein roz ka follow-up expect tha. Jaldi fix karo please.,"{""ticket_id"": ""TKT-10497"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Pune""}"
+tkt_0072,support_ticket,2026-08-25 15:30,"Hi team,
+
+Free trial 7 din ka bola tha lekin 5th din hi Rs 3,999 kat liye. Bilkul galat hai.","{""ticket_id"": ""TKT-10504"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Ahmedabad""}"
+tkt_0073,support_ticket,2026-08-25 22:51,"Hello support,
+
+i keep getting logged out and lose my food log for the day","{""ticket_id"": ""TKT-10511"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Jaipur""}"
+tkt_0074,support_ticket,2026-08-26 13:38,The setup asks way too many questions before showing anything useful. I gave up halfway. I updated the app yesterday. Thanks.,"{""ticket_id"": ""TKT-10518"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Hyderabad""}"
+tkt_0075,support_ticket,2026-08-26 15:48,"Hello support,
+
+After syncing, my steps are counted twice, once from the phone and once from the band. Thanks.","{""ticket_id"": ""TKT-10525"", ""priority"": ""P3"", ""status"": ""In Progress"", ""channel"": ""chat"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Ahmedabad""}"
+tkt_0076,support_ticket,2026-08-27 13:13,"Hi team,
+
+OTP never arrives when I try to log in. I tried five times over 3 days. I use an Android phone. I will not renew this plan. Please fix this soon.","{""ticket_id"": ""TKT-10532"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Pune""}"
+tkt_0077,support_ticket,2026-08-27 13:39,"Hello support,
+
+the coach was very helpful and friendly, really happy with my progress","{""ticket_id"": ""TKT-10539"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Bengaluru""}"
+tkt_0078,support_ticket,2026-08-27 15:06,"Hi team,
+
+Steps from my Noise ColorFit stopped syncing after the latest update. The app shows zero steps while the watch shows over 7,900. Please fix this soon.","{""ticket_id"": ""TKT-10546"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kolkata""}"
+tkt_0079,support_ticket,2026-08-27 20:26,"The trial ended earlier than promised and Rs 1,499 was taken from my card without any warning. This has been happening since last week. I want my money back and will raise a dispute with my bank if needed. Please fix this soon.
+
+Regards,
+Ananya Nair","{""ticket_id"": ""TKT-10553"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kochi""}"
+tkt_0080,support_ticket,2026-08-28 10:53,I keep getting logged out and lose my food log for the day. This is the second time I am raising this. Thanks.,"{""ticket_id"": ""TKT-10560"", ""priority"": ""P2"", ""status"": ""Open"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""iOS"", ""app_version"": ""8.4.0"", ""city"": ""Mumbai""}"
+tkt_0081,support_ticket,2026-08-28 17:27,"नमस्ते,
+
+मैंने सब्सक्रिप्शन रद्द किया था फिर भी इस महीने पैसे कट गए।","{""ticket_id"": ""TKT-10567"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Bengaluru""}"
+tkt_0082,support_ticket,2026-08-28 17:33,"My daily macros do not add up. Total calories do not match the protein, carbs and fat shown. Waiting for your response.","{""ticket_id"": ""TKT-10574"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Mumbai""}"
+tkt_0083,support_ticket,2026-08-28 23:06,The setup asks way too many questions before showing anything useful. I gave up halfway. I updated the app yesterday. Thanks.,"{""ticket_id"": ""TKT-10581"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Jaipur""}"
+tkt_0084,support_ticket,2026-08-29 18:35,"Great app, the workout tracker keeps me motivated. Thank you team!","{""ticket_id"": ""TKT-10588"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Jaipur""}"
+tkt_0085,support_ticket,2026-08-30 16:10,"Hello,
+
+Galaxy Watch ka sync ghanto lagata hai, workout agle din dikhta hai!!! Thanks.","{""ticket_id"": ""TKT-10595"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kolkata""}"
+tkt_0086,support_ticket,2026-08-30 20:06,"Hi,
+
+I keep getting logged out and lose my food log for the day. This is the second time I am raising this. Please fix this soon.","{""ticket_id"": ""TKT-10602"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Delhi""}"
+tkt_0087,support_ticket,2026-08-31 20:15,"Hi team,
+
+Mi Band 6 ka sync ghanto lagata hai, workout agle din dikhta hai. Kal hi app update kiya tha.","{""ticket_id"": ""TKT-10609"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Pune""}"
+tkt_0088,support_ticket,2026-09-01 13:07,"Hello support,
+
+Love how the cancel button is hidden so well. Must be a treasure hunt. I want my money back and will raise a dispute with my bank if needed.","{""ticket_id"": ""TKT-10616"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kochi""}"
+tkt_0089,support_ticket,2026-09-01 17:40,"Steps double count ho rahe hain, ek phone se aur ek band se. Ye doosri baar mail kar raha hu. Ab main ye plan renew nahi karunga. Mera registered number +91 78303 59036 hai.","{""ticket_id"": ""TKT-10623"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""iOS"", ""app_version"": ""8.4.0"", ""city"": ""Ahmedabad""}"
+tkt_0090,support_ticket,2026-09-02 19:50,"Hello support,
+
+Love how the cancel button is hidden so well. Must be a treasure hunt. I want my money back and will raise a dispute with my bank if needed.","{""ticket_id"": ""TKT-10630"", ""priority"": ""P2"", ""status"": ""Open"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Jaipur""}"
+tkt_0091,support_ticket,2026-09-03 08:26,"Roti ya katori ke hisaab se log karne ka option hi nahi hai, sirf grams. Kaafi irritating hai. Kal hi app update kiya tha. Thanks.","{""ticket_id"": ""TKT-10637"", ""priority"": ""P3"", ""status"": ""Open"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Bengaluru""}"
+tkt_0092,support_ticket,2026-09-03 08:47,अपडेट के बाद मेरे बैंड से स्टेप्स सिंक नहीं हो रहे हैं। My registered mobile number is +91 85064 10895.,"{""ticket_id"": ""TKT-10644"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Ahmedabad""}"
+tkt_0093,support_ticket,2026-09-04 12:06,"Namaste team,
+
+Coach ke liye paise diye par jawab 2-3 din mein aate hain. Is price mein roz ka follow-up expect tha. Mere paas Android phone hai.","{""ticket_id"": ""TKT-10651"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Chennai""}"
+tkt_0094,support_ticket,2026-09-04 13:35,"Thanks for the paywall right after signup, so welcoming. This is the second time I am raising this. I have uninstalled the app. Waiting for your response.","{""ticket_id"": ""TKT-10658"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Ahmedabad""}"
+tkt_0095,support_ticket,2026-09-05 09:33,best fitness app i have used so far,"{""ticket_id"": ""TKT-10665"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kochi""}"
+tkt_0096,support_ticket,2026-09-05 13:41,"Steps from my Fitbit Charge 5 stopped syncing after the latest update. The app shows zero steps while the watch shows over 7,900. I have been a premium user for over a year.","{""ticket_id"": ""TKT-10672"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kolkata""}"
+tkt_0097,support_ticket,2026-09-05 21:49,"Premium costs Rs 3,999 a year and honestly the free features of other apps do the same job. Also, I asked for a refund within 2 days of renewal and was told it is not possible. This is not fair for an unused plan. My registered mobile number is +91 92702 36945.","{""ticket_id"": ""TKT-10679"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kolkata""}"
+tkt_0098,support_ticket,2026-09-05 21:58,"Hi team,
+
+Would love a weekly summary email with my progress.","{""ticket_id"": ""TKT-10686"", ""priority"": ""P4"", ""status"": ""In Progress"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Hyderabad""}"
+tkt_0099,support_ticket,2026-09-06 22:30,"Hello,
+
+LATEST UPDATE KE BAAD BOAT WATCH SE STEPS SYNC NAHI HO RAHE. APP MEIN ZERO DIKHA RAHA HAI JABKI WATCH MEIN 8,300 SE ZYADA HAIN. Please check karo.
+
+Thanks,
+Farah Gupta","{""ticket_id"": ""TKT-10693"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kochi""}"
+tkt_0100,support_ticket,2026-09-07 12:42,Payment failed in the app but the money was debited from my bank and my premium is still not active. This has been happening since last week.,"{""ticket_id"": ""TKT-10700"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Pune""}"
+tkt_0101,support_ticket,2026-09-07 14:05,"Hi team,
+
+Barcode scan does not recognise most packaged ietms I buy, it just says product not found. Also, I could not figure out how to set my weight loss goal. The first screen does not explain what to do next. Thanks.","{""ticket_id"": ""TKT-10707"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Jaipur""}"
+tkt_0102,support_ticket,2026-09-08 10:17,"Hello support,
+
+sync with galaxy watch takes hours. my workouts appear the next day, which defeats the whole point of tracking","{""ticket_id"": ""TKT-10714"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Ahmedabad""}"
+tkt_0103,support_ticket,2026-09-09 10:24,"Hi team,
+
+sync with mi band 6 takes hours. my workouts appear the next day, which defeats the whole point of tracking This is the second time I am raising this.","{""ticket_id"": ""TKT-10721"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kolkata""}"
+tkt_0104,support_ticket,2026-09-09 16:23,"Hi team,
+
+App ke workouts mast hain. Par Barcode scan karne par product not found aata hai, packaged cheezein bhi nahi milti!!! Please check karo.","{""ticket_id"": ""TKT-10728"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kolkata""}"
+tkt_0105,support_ticket,2026-09-10 12:41,"Hi,
+
+Wow, thanks for the update that made all my steps disappear. Truly a feature. I have been a premium user for over a year.","{""ticket_id"": ""TKT-10735"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Delhi""}"
+tkt_0106,support_ticket,2026-09-11 18:01,It woudl be great to have a dark mode.,"{""ticket_id"": ""TKT-10742"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Hyderabad""}"
+tkt_0107,support_ticket,2026-09-11 18:50,"To whom it may concern,
+
+I cancelled my plan last month but I have been charged again.","{""ticket_id"": ""TKT-10749"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Hyderabad""}"
+tkt_0108,support_ticket,2026-09-12 09:30,"Hi team,
+
+I keep getting logged out and lose my food log for the day. My email is priya.nair29@example.com. Please fix this soon.","{""ticket_id"": ""TKT-10756"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Mumbai""}"
+tkt_0109,support_ticket,2026-09-12 10:41,"Paywall pe Rs 999 dikhaya tha par final amount Rs 1,499 charge hua.","{""ticket_id"": ""TKT-10763"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Hyderabad""}"
+tkt_0110,support_ticket,2026-09-12 11:04,"After syncing, my steps are counted twice, once from the phone and once from the band!!! I updated the app yesterday.","{""ticket_id"": ""TKT-10770"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Delhi""}"
+tkt_0111,support_ticket,2026-09-12 20:51,"Sleep data from my boAt Wathc is not showing in the app at all since the update. Also, The home screen takes forever to load, sometimes over 30 seconds on good wifi.","{""ticket_id"": ""TKT-10777"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Bengaluru""}"
+tkt_0112,support_ticket,2026-09-13 09:14,"Hello,
+
+Pehle setup step pe atak gaya, Next button kaam hi nahi karta. Reinstall karna pada. Main ek saal se premium user hu.","{""ticket_id"": ""TKT-10784"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Bengaluru""}"
+tkt_0113,support_ticket,2026-09-13 10:32,"Steps from my Noise ColorFit stopped syncing after the latest update. The app shows zero steps while the watch shows over 7,500. I updated the app yesterday. Thanks.","{""ticket_id"": ""TKT-10791"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.0"", ""city"": ""Kolkata""}"
+tkt_0114,support_ticket,2026-09-15 16:35,I cannot find many home cooked Indian dishes like lauki kofta. I have to enter everything manually.,"{""ticket_id"": ""TKT-10798"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kochi""}"
+tkt_0115,support_ticket,2026-09-16 18:31,Coach ke liye paise diye par jawab 2-3 din mein aate hain. Is price mein roz ka follow-up expect tha.,"{""ticket_id"": ""TKT-10805"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""chat"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Jaipur""}"
+tkt_0116,support_ticket,2026-09-16 19:52,"Hello,
+
+Apna weight hsitory export kaise karu?","{""ticket_id"": ""TKT-10812"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Pune""}"
+tkt_0117,support_ticket,2026-09-17 21:47,"PEHLE SETUP STEP PE ATAK GAYA, NEXT BUTTON KAAM HI NAHI KARTA. REINSTALL KARNA PADA.","{""ticket_id"": ""TKT-10819"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kolkata""}"
+tkt_0118,support_ticket,2026-09-18 10:20,"Namaste team,
+
+masala dosa ki calories bahut galat dikha raha hai, 480 kcal bata raha hai jabki ek serving mein lagbhag 250 hoti hai. Please check karo.","{""ticket_id"": ""TKT-10826"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Pune""}"
+tkt_0119,support_ticket,2026-09-19 16:08,"Hello support,
+
+The diet plan has nothing for South Indian meals, it is all north Indian and western food. This is the second time I am raising this. Waiting for your response.","{""ticket_id"": ""TKT-10833"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kochi""}"
+tkt_0120,support_ticket,2026-09-20 14:42,"Free trial 7 din ka bola tha lekin 6th din hi Rs 2,999 kat liye. Bilkul galat hai. Main ek saal se premium user hu. Mera subscription turant cancel kar do. Mera registered number +91 69423 41195 hai.","{""ticket_id"": ""TKT-10840"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kolkata""}"
+tkt_0121,support_ticket,2026-09-20 18:45,"Hello,
+
+Maine plan cancel kiya tha phir bhi agle mahine paise kat gaye. Refund chahiye. Paise wapas chahiye warna bank mein dispute karunga. Thanks.","{""ticket_id"": ""TKT-10847"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Hyderabad""}"
+tkt_0122,support_ticket,2026-09-21 17:12,Sleep data from my Noise ColorFit is not showing in the app at all since the update.,"{""ticket_id"": ""TKT-10854"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Jaipur""}"
+tkt_0123,support_ticket,2026-09-23 10:03,Extra taxes were added at checkout that were never shown earlier. Feels misleading. I want my money back and will raise a dispute with my bank if needed. Kindly look into it.,"{""ticket_id"": ""TKT-10861"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Jaipur""}"
+tkt_0124,support_ticket,2026-09-23 22:28,"Hi team,
+
+I cannot find any option to cancel my subscription inside the app. I have looked through settings three times. My registered mobile number is +91 78046 69186. Waiting for your response.","{""ticket_id"": ""TKT-10868"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Delhi""}"
+tkt_0125,support_ticket,2026-09-24 14:31,"Hello,
+
+Paywall pe Rs 3,499 dikhaya tha par final amount Rs 3,999 charge hua!!! Mera registered number +91 93977 16590 hai. Reply ka wait hai.","{""ticket_id"": ""TKT-10875"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Chennai""}"
+tkt_0126,support_ticket,2026-09-25 17:21,"Ghar ka khana jaise bhindi masala app mein milta hi nahi, har baar manually add karna padta hai. Mera registered number +91 71841 86483 hai. Thanks.
+
+- Kavya Nair","{""ticket_id"": ""TKT-10882"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kochi""}"
+tkt_0127,support_ticket,2026-09-26 10:43,I askde for a refund within 2 days of renewal and was told it is not possible. This is not fair for an unused plan. Waiting for your response.,"{""ticket_id"": ""TKT-10889"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Bengaluru""}"
+tkt_0128,support_ticket,2026-09-26 14:48,"Love the app, lost 7 kg in 6 months. The food diary is simple to use.","{""ticket_id"": ""TKT-10896"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kochi""}"
+tkt_0129,support_ticket,2026-09-27 16:19,"I was charged twice for the same Premium Monthly plan this month. Rs 1,499 was deducted two times from my account. I use an Android phone. My email is priya.iyer1@example.com. Waiting for your response.","{""ticket_id"": ""TKT-10903"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Delhi""}"
+tkt_0130,support_ticket,2026-09-27 16:38,"Namaste team,
+
+Goal set kaise karna hai samajh nahi aaya, pehli screen pe kuch explain hi nahi kiya. Ye pichle hafte se ho raha hai.","{""ticket_id"": ""TKT-10910"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""chat"", ""plan"": ""Free"", ""platform"": ""iOS"", ""app_version"": ""8.4.1"", ""city"": ""Kolkata""}"
+tkt_0131,support_ticket,2026-09-27 21:54,"Hi team,
+
+Latest update ke baad Fitbit Charge 5 se steps sync nahi ho rahe. App mein zero dikha raha hai jabki watch mein 7,600 se zyada hain!!! Reply ka wait hai.","{""ticket_id"": ""TKT-10917"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Ahmedabad""}"
+tkt_0132,support_ticket,2026-09-28 10:26,"The price shown on the paywall was Rs 2,499 but the final amount charged was Rs 2,999. Also, I asked for a refund within 2 days of renewal and was told it is not possible. This is not fair for an unused plan.","{""ticket_id"": ""TKT-10924"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""iOS"", ""app_version"": ""8.4.1"", ""city"": ""Kolkata""}"
+tkt_0133,support_ticket,2026-09-29 09:30,"Hi team,
+
+Premium costs Rs 1,499 a year and honestly the free features of other apps do the same job. Thanks.","{""ticket_id"": ""TKT-10931"", ""priority"": ""P3"", ""status"": ""In Progress"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kochi""}"
+tkt_0134,support_ticket,2026-09-29 10:32,Maine plan cancel kiya tha phir bhi agle mahine paise kat gaye. Refund chahiye. Maine app uninstall kar diya hai.,"{""ticket_id"": ""TKT-10938"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Bengaluru""}"
+tkt_0135,support_ticket,2026-09-29 16:43,"नमस्ते,
+
+dal tadka की कैलोरी बहुत गलत दिखा रहा है, ऐप में 320 kcal है जबकि असल में 150 के आसपास होती है।","{""ticket_id"": ""TKT-10945"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""chat"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Jaipur""}"
+tkt_0136,support_ticket,2026-09-30 14:52,"The app design is lovely and the coaches are nice. But The price shown on the paywall was Rs 999 but the final amount charged was Rs 1,499. My registered mobile number is +91 88385 41963. Waiting for your response.","{""ticket_id"": ""TKT-10952"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Chennai""}"
+tkt_0137,support_ticket,2026-09-30 15:05,"The diet plan has nothing for South Indian meals, it is all north Indian and western food.","{""ticket_id"": ""TKT-10959"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Bengaluru""}"
+tkt_0138,support_ticket,2026-10-02 10:38,Baar baar logout ho jata hu aur din ka food log gayab ho jata hai. Kal hi app update kiya tha. Reply ka wait hai.,"{""ticket_id"": ""TKT-10966"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Jaipur""}"
+tkt_0139,support_ticket,2026-10-02 11:12,"To whom it may concern,
+
+I was charged twice for the same Premium Monthly plan this month. Rs 3,999 was deducted two times from my account. Strava does this much better. Please fix this soon.","{""ticket_id"": ""TKT-10973"", ""priority"": ""P4"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Ahmedabad""}"
+tkt_0140,support_ticket,2026-10-02 14:32,"chicken biryani ki calories bahut galat dikha raha hai, 650 kcal bata raha hai jabki ek serving mein lagbhag 380 hoti hai. Mere paas Android phone hai. Mera registered number +91 66517 91006 hai.","{""ticket_id"": ""TKT-10980"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Pune""}"
+tkt_0141,support_ticket,2026-10-02 19:31,"Hi,
+
+I cannot find any option to cancel my subscription inside the app. I have looked through settings three times. Kindly look into it.","{""ticket_id"": ""TKT-10987"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Ahmedabad""}"
+tkt_0142,support_ticket,2026-10-02 22:39,"Google Fit connect karta hu toh ek din chalta hai, phir apne aap disconnect ho jata hai.","{""ticket_id"": ""TKT-10994"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""chat"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kolkata""}"
+tkt_0143,support_ticket,2026-10-03 09:32,Right after signup I hit a paywall before I even understood what the app does. Thinking of switching to Strava. Please fix this soon.,"{""ticket_id"": ""TKT-11001"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Delhi""}"
+tkt_0144,support_ticket,2026-10-03 18:27,Best fitness app I have used so far.,"{""ticket_id"": ""TKT-11008"", ""priority"": ""P4"", ""status"": ""In Progress"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Ahmedabad""}"
+tkt_0145,support_ticket,2026-10-04 21:07,"Payment fail dikha raha tha par bank se paise kat gaye, premium abhi bhi activate nahi hua. Mera email deepak.nair39@example.com hai. Reply ka wait hai.","{""ticket_id"": ""TKT-11015"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Chennai""}"
+tkt_0146,support_ticket,2026-10-05 12:52,"Hello support,
+
+Right after signup I hit a paywall before I even understood what the app does. Waiting for your response.","{""ticket_id"": ""TKT-11022"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kochi""}"
+tkt_0147,support_ticket,2026-10-07 10:19,"Hi,
+
+Two identical payments of Rs 1,499 went out for one Premium Annual subscription. I have uninstalled the app.","{""ticket_id"": ""TKT-11029"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Bengaluru""}"
+tkt_0148,support_ticket,2026-10-07 16:13,I asked for a refund within 2 days of renewal and was told it is not possible. This is not fair for an unused plan. Please fix this soon.,"{""ticket_id"": ""TKT-11036"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Bengaluru""}"
+tkt_0149,support_ticket,2026-10-08 20:41,"Hi team,
+
+There is no option to log a katori or a roti by size, only grams, so my logging is never accurate. Please fix this soon.","{""ticket_id"": ""TKT-11043"", ""priority"": ""P3"", ""status"": ""In Progress"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Mumbai""}"
+tkt_0150,support_ticket,2026-10-09 16:35,"Hi,
+
+I cancelled my plan last month but I have been charged again.","{""ticket_id"": ""TKT-11050"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kochi""}"
+tkt_0151,support_ticket,2026-10-09 22:19,"Hi team,
+
+There is no option to log a katori or a roti by size, only grams, so my logging is never accurate. Please fix this soon. Please reply, this is urgent.","{""ticket_id"": ""TKT-11057"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""iOS"", ""app_version"": ""8.4.1"", ""city"": ""Mumbai""}"
+tkt_0152,support_ticket,2026-10-10 13:40,I pay for a personal coach but replies take 2 to 3 days. For this price I expected daily check-ins.,"{""ticket_id"": ""TKT-11064"", ""priority"": ""P3"", ""status"": ""In Progress"", ""channel"": ""chat"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Jaipur""}"
+tkt_0153,support_ticket,2026-10-10 17:11,I asked for a refund within 2 days of renewal and was told it is not possible. This is not fair for an unused plan. Please fix this soon.,"{""ticket_id"": ""TKT-11071"", ""priority"": ""P3"", ""status"": ""Open"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Jaipur""}"
+tkt_0154,support_ticket,2026-10-10 22:58,"Hello support,
+
+Great job charging me twice for one plan. Really appreciate the surprise deduction of Rs 3,999. Thinking of switching to Strava.","{""ticket_id"": ""TKT-11078"", ""priority"": ""P2"", ""status"": ""Open"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Jaipur""}"
+tkt_0155,support_ticket,2026-10-11 12:46,"Hi team,
+
+the trial ended earlier than promised and rs 2,999 was taken from my card without any warning","{""ticket_id"": ""TKT-11085"", ""priority"": ""P2"", ""status"": ""In Progress"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Pune""}"
+tkt_0156,support_ticket,2026-10-12 08:31,"To whom it may concern,
+
+My daily macros do not add up. Total calories do not match the protein, carbs and fat shown. Thanks.","{""ticket_id"": ""TKT-11092"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Ahmedabad""}"
+tkt_0157,support_ticket,2026-10-12 21:10,REMINDER: I pay for a personal coach but replies take 2 to 3 days. For this price I expected daily check-ins.,"{""ticket_id"": ""TKT-11099"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""chat"", ""plan"": ""Premium Monthly"", ""platform"": ""iOS"", ""app_version"": ""8.4.1"", ""city"": ""Hyderabad""}"
+tkt_0158,support_ticket,2026-10-13 09:15,"Subscription cancel karne ka option app mein mil hi nahi raha, settings mein 3 baar dekha. Maine app uninstall kar diya hai. Please check karo.","{""ticket_id"": ""TKT-11106"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Mumbai""}"
+tkt_0159,support_ticket,2026-10-14 12:58,"Hi,
+
+Sync with boAt Watch takes hours. My workouts appear the next day, which defeats the whole point of tracking. Thanks.","{""ticket_id"": ""TKT-11113"", ""priority"": ""P3"", ""status"": ""Open"", ""channel"": ""chat"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Pune""}"
+tkt_0160,support_ticket,2026-10-14 20:11,Please add support for logging yoga sessions with duration.,"{""ticket_id"": ""TKT-11120"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Chennai""}"
+tkt_0161,support_ticket,2026-10-15 10:10,"The home screen takes forever to load, sometimes over 30 seconds on good wifi. Thanks.
+
+- Farah Gupta","{""ticket_id"": ""TKT-11127"", ""priority"": ""P3"", ""status"": ""In Progress"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Pune""}"
+tkt_0162,support_ticket,2026-10-15 14:01,Please add a water intake reminder widget.,"{""ticket_id"": ""TKT-11134"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Pune""}"
+tkt_0163,support_ticket,2026-10-15 20:20,"Hi team,
+
+Payment failed in the app but the money was debited from my bank and my premium is still not active.","{""ticket_id"": ""TKT-11141"", ""priority"": ""P2"", ""status"": ""In Progress"", ""channel"": ""chat"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Ahmedabad""}"
+tkt_0164,support_ticket,2026-10-16 13:37,I cannot find any option to cancel my subscription inside the app. I have looked through settings three times. Waiting for your response.,"{""ticket_id"": ""TKT-11148"", ""priority"": ""P2"", ""status"": ""In Progress"", ""channel"": ""in_app_form"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kolkata""}"
+tkt_0165,support_ticket,2026-10-16 16:24,"barcode scan karne par product not found aata hai, packaged cheezein bhi nahi milti","{""ticket_id"": ""TKT-11155"", ""priority"": ""P3"", ""status"": ""Open"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Bengaluru""}"
+tkt_0166,support_ticket,2026-10-16 20:04,I got stuck on the first setup step and the Next button does nothing. Had to reinstall. Kindly look into it.,"{""ticket_id"": ""TKT-11162"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""in_app_form"", ""plan"": ""Free"", ""platform"": ""iOS"", ""app_version"": ""8.4.1"", ""city"": ""Chennai""}"
+tkt_0167,support_ticket,2026-10-17 19:57,Extra taxes were added at checkout that were never shown earlier. Feels misleading. This is the second time I am raising this. I have uninstalled the app. My registered mobile number is +91 63267 29769. Please fix this soon.,"{""ticket_id"": ""TKT-11169"", ""priority"": ""P3"", ""status"": ""In Progress"", ""channel"": ""chat"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Kolkata""}"
+tkt_0168,support_ticket,2026-10-18 16:38,"Auto-renewal ka koi message nahi aaya, seedha Rs 2,499 ddeuct ho gaye annual plan ke. Kal hi app update kiya tha. Mera registered number +91 73103 96474 hai. Please check karo.
+
+Thanks,
+Kavya Iyer","{""ticket_id"": ""TKT-11176"", ""priority"": ""P2"", ""status"": ""Open"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Chennai""}"
+tkt_0169,support_ticket,2026-10-18 17:09,I asked for a refund within 2 days of renewal and was told it is not possible. This is not fair for an unused plan. Thinking of switching to Strava.,"{""ticket_id"": ""TKT-11183"", ""priority"": ""P2"", ""status"": ""In Progress"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Chennai""}"
+tkt_0170,support_ticket,2026-10-20 16:56,"Mere account se Rs 3,999 do baar kat gaye, ek hi plan ke liye. Ye kya scene hai? Jaldi fix karo please.","{""ticket_id"": ""TKT-11190"", ""priority"": ""P2"", ""status"": ""In Progress"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Hyderabad""}"
+tkt_0171,support_ticket,2026-10-21 13:43,"Hello support,
+
+I got stuck on the first setup step and the Next button does nothing. Had to reinstall. Kindly look into it.
+
+Thanks,
+Suresh Sharma","{""ticket_id"": ""TKT-11197"", ""priority"": ""P2"", ""status"": ""In Progress"", ""channel"": ""email"", ""plan"": ""Premium Plus"", ""platform"": ""iOS"", ""app_version"": ""8.4.1"", ""city"": ""Delhi""}"
+tkt_0172,support_ticket,2026-10-21 14:05,"Hi team,
+
+The app design is lovely and the coaches are nice. But I cancelled my plan last month but I have been charged again. I want my money back and will raise a dispute with my bank if needed. My registered mobile number is +91 72143 46208. Waiting for your response.","{""ticket_id"": ""TKT-11204"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Mumbai""}"
+tkt_0173,support_ticket,2026-10-22 15:33,"MY DAILY MACROS DO NOT ADD UP. TOTAL CALORIES DO NOT MATCH THE PROTEIN, CARBS AND FAT SHOWN. I use an Android phone.","{""ticket_id"": ""TKT-11211"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Monthly"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Ahmedabad""}"
+tkt_0174,support_ticket,2026-10-22 20:50,"After syncing, my steps are counted twice, once from the phone and once from the band.","{""ticket_id"": ""TKT-11218"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Bengaluru""}"
+tkt_0175,support_ticket,2026-10-23 13:33,"Hi team,
+
+I cancelled my plan last month but I have been charged again. This is the second time I am raising this. Thanks.","{""ticket_id"": ""TKT-11225"", ""priority"": ""P2"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Bengaluru""}"
+tkt_0176,support_ticket,2026-10-23 15:21,"Hi team,
+
+THE DIET PLAN HAS NOTHING FOR SOUTH INDIAN MEALS, IT IS ALL NORTH INDIAN AND WESTERN FOOD. I use an Android phone. Please fix this soon.","{""ticket_id"": ""TKT-11232"", ""priority"": ""P4"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Hyderabad""}"
+tkt_0177,support_ticket,2026-10-24 10:23,"नमस्ते,
+
+मेरे खाते से एक ही प्लान के लिए दो बार पैसे कट गए। कृपया रिफंड करें। My email is farah.patel5@example.com. धन्यवाद।","{""ticket_id"": ""TKT-11239"", ""priority"": ""P2"", ""status"": ""Open"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Mumbai""}"
+tkt_0178,support_ticket,2026-10-24 16:13,"Namaste team,
+
+Update ke baad Noise ColorFit ka sleep data app mein aa hi nahi raha. Kal hi app update kiya tha. Please check karo.","{""ticket_id"": ""TKT-11246"", ""priority"": ""P3"", ""status"": ""Open"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""iOS"", ""app_version"": ""8.4.1"", ""city"": ""Jaipur""}"
+tkt_0179,support_ticket,2026-10-25 08:03,"Hello,
+
+MERE ACCOUNT SE RS 3,999 DO BAAR KAT GAYE, EK HI PLAN KE LIYE. YE KYA SCENE HAI? Ab main ye plan renew nahi karunga. Please check karo.","{""ticket_id"": ""TKT-11253"", ""priority"": ""P2"", ""status"": ""Open"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Chennai""}"
+tkt_0180,support_ticket,2026-10-25 09:57,"Goal set kaise karna hai samajh nahi aaya, pehli screen pe kuch explain hi nahi kiya. Kal hi app update kiya tha.","{""ticket_id"": ""TKT-11260"", ""priority"": ""P3"", ""status"": ""Open"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Bengaluru""}"
+tkt_0181,support_ticket,2026-10-27 15:34,"Namaste team,
+
+Maine plan cancel kiya tha phir bhi agle mahine paise kat gaye. Refund chahiye.","{""ticket_id"": ""TKT-11267"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""email"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Mumbai""}"
+tkt_0182,support_ticket,2026-10-27 16:30,Extra taxes were added at checkout that were never shown earlier. Feels misleading. This has been happening since last week. Thinking of switching to Fittr.,"{""ticket_id"": ""TKT-11274"", ""priority"": ""P3"", ""status"": ""Open"", ""channel"": ""chat"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Hyderabad""}"
+tkt_0183,support_ticket,2026-10-27 18:53,"Namaste team,
+
+Coach ke liye paise diye par jawab 2-3 din mein aate hain. Is price mein roz ka follow-up expect tha.","{""ticket_id"": ""TKT-11281"", ""priority"": ""P3"", ""status"": ""Resolved"", ""channel"": ""email"", ""plan"": ""Premium Plus"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Mumbai""}"
+tkt_0184,support_ticket,2026-10-29 15:19,"Paywall pe Rs 3,499 dikhaya tha par final amount Rs 3,999 charge hua. Main ek saal se premium user hu. Mera email nisha.menon30@example.com hai. Thanks.","{""ticket_id"": ""TKT-11288"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""chat"", ""plan"": ""Free"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Ahmedabad""}"
+tkt_0185,support_ticket,2026-10-29 19:46,"I cancelled my plan last month but I have been charged again. My registered mobile number is +91 81992 62184. Please fix this soon.
+
+Regards,
+Pooja Singh","{""ticket_id"": ""TKT-11295"", ""priority"": ""P2"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""iOS"", ""app_version"": ""8.4.1"", ""city"": ""Kolkata""}"
+tkt_0186,support_ticket,2026-10-31 19:27,"Hi,
+
+Barcode scan does not recognise most packaged items I buy, it just says product not found. Please fix this soon.","{""ticket_id"": ""TKT-11302"", ""priority"": ""P3"", ""status"": ""Closed"", ""channel"": ""in_app_form"", ""plan"": ""Premium Annual"", ""platform"": ""Android"", ""app_version"": ""8.4.1"", ""city"": ""Bengaluru""}"

@@ -1,0 +1,4 @@
+date,event,type,expected_effect
+2026-08-18,App release 8.4.0 (device sync rewrite),release,T04 sync complaints and T06 crash/login complaints rise
+2026-09-15,Hotfix 8.4.1 (sync fix),hotfix,T04 returns to baseline within ~1 week
+2026-09-20,Annual plan price change and new renewal flow,pricing,T01 and T02 volume rises and stays higher
